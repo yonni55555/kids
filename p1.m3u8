@@ -169,7 +169,11 @@ http://10.troya.info:34000/ch2617/mono.m3u8?token=mokroe2.VbuM3k-WzqMJPpJ4YB-fRg
 #EXTINF:0 group-title=" סרטים+" tvg-name="IL: Free Tv Feel Good" tvg-logo="http://troya.tv/images/chIcons/3036.png",[COLOR gold]פריטיוי-סרטים  להרגיש טוב[/COLOR]
 http://10.troya.info:34000/ch3036/mono.m3u8?token=mokroe2.VbuM3k-WzqMJPpJ4YB-fRgvtUYQWDwfmY3dXTtjW7oucqx3g24uTXOKwUqg7VBDC
 
+#EXTINF:0 group-title=" סרטים+" tvg-name="IL:YES Word Action HD" tvg-logo="http://troya.tv/images/chIcons/3174.png",[COLOR red]ערוץ האקשן העולמי 1[/COLOR]
+http://10.troya.info:34000/ch3174/mono.m3u8?token=mokroe2.VbuM3k-WzqMJPpJ4YB-fRgvtUYQWDwfmY3dXTtjW7oucqx3g24uTXOKwUqg7VBDC
 
+#EXTINF:0 group-title=" סרטים+" tvg-name="IL:YES Word Action 2 HD" tvg-logo="http://troya.tv/images/chIcons/3175.png",[COLOR red]ערוץ האקשן העולמי 2[/COLOR]
+http://10.troya.info:34000/ch3175/mono.m3u8?token=mokroe2.VbuM3k-WzqMJPpJ4YB-fRgvtUYQWDwfmY3dXTtjW7oucqx3g24uTXOKwUqg7VBDC
 
 #EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema 1 HD" tvg-logo="http://troya.tv/images/chIcons/1161.png",[COLOR red]HOT סרטים 1[/COLOR]
 http://10.troya.info:34000/ch1161/mono.m3u8?token=mokroe2.VbuM3k-WzqMJPpJ4YB-fRgvtUYQWDwfmY3dXTtjW7oucqx3g24uTXOKwUqg7VBDC
