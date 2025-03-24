@@ -466,7 +466,7 @@ https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba0/0/master.m3u8
 #EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema Israeli HD" tvg-logo="http://troya.tv/images/chIcons/1133.png",[COLOR]HOT סרטים ישראלים[/COLOR]
 https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba1/0/master.m3u8
 
-#EXTINF:0 group-title=" סרטים+" tvg-name="IL: Free Israeli Movies HD" tvg-logo="http://troya.tv/images/chIcons/2538.png",[COLOR gold]פריטיוי-סרטים ישראלים[/COLOR]
+#EXTINF:0 group-title=" סרטים+" tvg-name="IL: Free Israeli Movies HD" tvg-logo="http://troya.tv/images/chIcons/2538.png",[COLOR]פריטיוי-סרטים ישראלים[/COLOR]
 https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5bad/0/master.m3u8
 
 #EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema Family HD" tvg-logo="http://troya.tv/images/chIcons/1153.png",[COLOR]HOT סרטים משפחה[/COLOR]
@@ -490,7 +490,7 @@ https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba7/0/master.m3u8
 #EXTINF:0 group-title=" סדרות+" tvg-name="IL: HOT Senior HD" tvg-logo="http://troya.tv/images/chIcons/2613.png",[COLOR]HOT Senior[/COLOR]
 https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba8/0/master.m3u8
 
-#EXTINF:0 group-title=" ילדים+" tvg-name="IL: HOT Buzz HD" tvg-logo="http://troya.tv/images/chIcons/2614.png",[COLOR gold]HOT באזז[/COLOR]
+#EXTINF:0 group-title=" ילדים+" tvg-name="IL: HOT Buzz HD" tvg-logo="http://troya.tv/images/chIcons/2614.png",[COLOR]HOT באזז[/COLOR]
 https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba9/0/master.m3u8
 
 #EXTINF:0 group-title=" סדרות+" tvg-name="IL: Humor Channel" tvg-logo="http://troya.tv/images/chIcons/1178.png",[COLOR]ערוץ ההומור[/COLOR]
