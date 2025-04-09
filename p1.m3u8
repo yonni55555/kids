@@ -3,6 +3,70 @@
 
 
 
+#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 1 FHD" tvg-logo="http://troya.tv/images/chIcons/1128.png",ספורט 1
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cf4/0/master.m3u8
+
+#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 2 FHD" tvg-logo="http://troya.tv/images/chIcons/1129.png",ספורט 2
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cac/0/master.m3u8
+
+#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 3 FHD" tvg-logo="http://troya.tv/images/chIcons/1130.png",ספורט 3
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cb2/0/master.m3u8
+
+#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 4 FHD" tvg-logo="http://troya.tv/images/chIcons/1131.png",ספורט 4
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cb3/0/master.m3u8
+
+#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 5" tvg-logo="http://troya.tv/images/chIcons/1132.png",ספורט 5
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cb8/0/master.m3u8
+
+#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 5 Livе" tvg-logo="http://troya.tv/images/chIcons/1155.png",ספורט 5 Livе
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cb9/0/master.m3u8
+
+#EXTINF:0 group-title=" סדרות+" tvg-name="IL: Free Tv Comedy HD" tvg-logo="http://troya.tv/images/chIcons/2540.png",פריטיוי סדרות קומדיה
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cce/0/master.m3u8
+
+#EXTINF:0 group-title=" סרטים+" tvg-name="IL: Free Movies Comedy HD" tvg-logo="http://troya.tv/images/chIcons/1193.png",פריטיוי-סרטים קומדיה
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cc6/0/master.m3u8
+
+#EXTINF:0 group-title=" סרטים+" tvg-name="IL: Free Movies Action HD" tvg-logo="http://troya.tv/images/chIcons/2537.png",פריטיוי-סרטים אקשן
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cc4/0/master.m3u8
+
+#EXTINF:0 tvg-name="IL: YES Israeli Cinema HD" tvg-logo="http://troya.tv/images/chIcons/2030.png",יס סרטים ישראלים
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cc3/0/master.m3u8
+
+#EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 11" tvg-logo="http://troya.tv/images/chIcons/428.png",ערוץ 11
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cec/0/master.m3u8
+
+#EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 12" tvg-logo="http://troya.tv/images/chIcons/429.png",ערוץ 12
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5ca9/0/master.m3u8
+
+#EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 13" tvg-logo="http://troya.tv/images/chIcons/430.png",ערוץ 13
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cab/0/master.m3u8
+
+#EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 14" tvg-logo="http://troya.tv/images/chIcons/1119.png",ערוץ 14
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5caa/0/master.m3u8
+
+#EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 24" tvg-logo="http://troya.tv/images/chIcons/1142.png",ערוץ 24
+https://tv.embyil.tv:82/2/67edec7ef5dd41ffe5fe5cf9/0/master.m3u8
+
+#EXTINF:0 group-title=" עידן+" tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",i24 חדשות
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5ca7/0/master.m3u8
+
+#EXTINF:0 group-title=" עידן+" tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://troya.tv/images/chIcons/1171.png",חינוכית 23
+https://tv.embyil.tv:82/2/67edec7ef5dd41ffe5fe5cf7/0/master.m3u8
+
+
+#
+
+
+#
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 1 FHD" tvg-logo="http://troya.tv/images/chIcons/1128.png",[COLOR aqua]ספורט 1[/COLOR]
 http://4.troya.info:34000/ch1128/mono.m3u8?token=mokroe2.HCweP2Rs3tJOQhFZuuBLKRTTDruzIdx1WWNqlkyXqcQ2sr0JXhU2BfUh_MqzOKMq
 
@@ -410,97 +474,3 @@ http://4.troya.info:34000/ch2629/mono.m3u8?token=mokroe2.HCweP2Rs3tJOQhFZuuBLKRT
 
 #EXTINF:0 group-title=" ספורט+" tvg-name="IL: Ego Total" tvg-logo="http://troya.tv/images/chIcons/2498.png",[COLOR aqua]אגו טוטאל[/COLOR]
 http://4.troya.info:34000/ch2498/mono.m3u8?token=mokroe2.HCweP2Rs3tJOQhFZuuBLKRTTDruzIdx1WWNqlkyXqcQ2sr0JXhU2BfUh_MqzOKMq
-
-
-#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 1 FHD" tvg-logo="http://troya.tv/images/chIcons/1128.png",[COLOR]ספורט 1[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5ac5/0/master.m3u8
-
-#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 2 FHD" tvg-logo="http://troya.tv/images/chIcons/1129.png",[COLOR]ספורט 2[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5ac6/0/master.m3u8
-
-#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 3 FHD" tvg-logo="http://troya.tv/images/chIcons/1130.png",[COLOR]ספורט 3[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5ac7/0/master.m3u8
-
-#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 4 FHD" tvg-logo="http://troya.tv/images/chIcons/1131.png",[COLOR]ספורט 4[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5ac8/0/master.m3u8
-
-#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 5" tvg-logo="http://troya.tv/images/chIcons/1132.png",[COLOR]ספורט 5[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5ac9/0/master.m3u8
-
-#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 5 Livе" tvg-logo="http://troya.tv/images/chIcons/1155.png",[COLOR]ספורט 5 Livе[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5aca/0/master.m3u8
-
-#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: ONE 1 HD" tvg-logo="http://troya.tv/images/chIcons/1186.png",[COLOR]ONE 1[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5acb/0/master.m3u8
-
-#EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: ONE 2 HD" tvg-logo="http://troya.tv/images/chIcons/1145.png",[COLOR]ONE 2[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5acc/0/master.m3u8
-
-#EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 11" tvg-logo="http://troya.tv/images/chIcons/428.png",[COLOR ]ערוץ 11[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5abe/0/master.m3u8
-
-#EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 12" tvg-logo="http://troya.tv/images/chIcons/429.png",[COLOR ]ערוץ 12[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5abf/0/master.m3u8
-
-#EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 13" tvg-logo="http://troya.tv/images/chIcons/430.png",[COLOR ]ערוץ 13[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5ac0/0/master.m3u8
-
-#EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 14" tvg-logo="http://troya.tv/images/chIcons/1119.png",[COLOR ]ערוץ 14[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5ac1/0/master.m3u8
-
-#EXTINF:0 group-title=" עידן+" tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",[COLOR ]i24 חדשות[/COLOR]
-https://tv.embyil.tv:82/2/67ddb22ef5dd41ffe5fe5ac3/0/master.m3u8
-
-#EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema 1 HD" tvg-logo="http://troya.tv/images/chIcons/1161.png",[COLOR]HOT סרטים 1[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5b9d/0/master.m3u8
-
-#EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema 2 HD" tvg-logo="http://troya.tv/images/chIcons/1172.png",[COLOR]HOT סרטים 2[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5b9e/0/master.m3u8
-
-#EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema 3 HD" tvg-logo="http://troya.tv/images/chIcons/1140.png",[COLOR]HOT סרטים 3[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5b9f/0/master.m3u8
-
-#EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema 4 HD" tvg-logo="http://troya.tv/images/chIcons/1192.png",[COLOR]HOT סרטים 4[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba0/0/master.m3u8
-
-#EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema Israeli HD" tvg-logo="http://troya.tv/images/chIcons/1133.png",[COLOR]HOT סרטים ישראלים[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba1/0/master.m3u8
-
-#EXTINF:0 group-title=" סרטים+" tvg-name="IL: Free Israeli Movies HD" tvg-logo="http://troya.tv/images/chIcons/2538.png",[COLOR]פריטיוי-סרטים ישראלים[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5bad/0/master.m3u8
-
-#EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema Family HD" tvg-logo="http://troya.tv/images/chIcons/1153.png",[COLOR]HOT סרטים משפחה[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba2/0/master.m3u8
-
-#EXTINF:0 group-title=" סדרות+" tvg-name="IL: HOT Zone HD" tvg-logo="http://troya.tv/images/chIcons/1139.png",[COLOR]HOT סדרות אקשן[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba3/0/master.m3u8
-
-#EXTINF:0 group-title=" סדרות+" tvg-name="IL: HOT 3 HD" tvg-logo="http://troya.tv/images/chIcons/1147.png",[COLOR]HOT 3[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba4/0/master.m3u8
-
-#EXTINF:0 group-title=" פנאי+" tvg-name="IL: HOT 8 HD" tvg-logo="http://troya.tv/images/chIcons/1144.png",[COLOR]HOT 8[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba5/0/master.m3u8
-
-#EXTINF:0 group-title=" סדרות+" tvg-name="IL: HOT Comedy Central HD" tvg-logo="http://troya.tv/images/chIcons/1174.png",[COLOR]HOT קומדי סנטרל[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba6/0/master.m3u8
-
-#EXTINF:0 group-title=" סדרות+" tvg-name="IL: HOT Bidur HD" tvg-logo="http://troya.tv/images/chIcons/1163.png",[COLOR]HOT בידור ישראלי[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba7/0/master.m3u8
-
-#EXTINF:0 group-title=" סדרות+" tvg-name="IL: HOT Senior HD" tvg-logo="http://troya.tv/images/chIcons/2613.png",[COLOR]HOT Senior[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba8/0/master.m3u8
-
-#EXTINF:0 group-title=" ילדים+" tvg-name="IL: HOT Buzz HD" tvg-logo="http://troya.tv/images/chIcons/2614.png",[COLOR]HOT באזז[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5ba9/0/master.m3u8
-
-#EXTINF:0 group-title=" סדרות+" tvg-name="IL: Humor Channel" tvg-logo="http://troya.tv/images/chIcons/1178.png",[COLOR]ערוץ ההומור[/COLOR]
-https://tv.embyil.tv:82/2/67e0daf1f5dd41ffe5fe5bb0/0/master.m3u8
-
-#EXTINF:0 group-title=" טלנובלות+" tvg-name="IL: Turkish Drama Plus" tvg-logo="http://troya.tv/images/chIcons/2028.png",[COLOR]ערוץ הדרמות טורקיות +[/COLOR]
-https://tv.embyil.tv:82/2/67e0e62ef5dd41ffe5fe5bb3/0/master.m3u8
-
-#EXTINF:0 group-title=" טלנובלות+" tvg-name="IL: Turkish Drama 2" tvg-logo="http://troya.tv/images/chIcons/2029.png",[COLOR]ערוץ הדרמות טורקיות 2[/COLOR]
-https://tv.embyil.tv:82/2/67e0e62ef5dd41ffe5fe5bb2/0/master.m3u8  
-
-#EXTINF:0 group-title=" טלנובלות+" tvg-name="IL: Turkish Drama 3" tvg-logo="http://troya.tv/images/chIcons/2611.png",[COLOR]ערוץ הדרמות טורקיות 3[/COLOR]
-https://tv.embyil.tv:82/2/67e0e62ef5dd41ffe5fe5bb4/0/master.m3u8
