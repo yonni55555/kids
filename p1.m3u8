@@ -33,6 +33,9 @@ https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cc4/0/master.m3u8
 #EXTINF:0 group-title=" סרטים+" tvg-name="IL: Free Israeli Movies HD" tvg-logo="http://troya.tv/images/chIcons/2538.png",פריטיוי-סרטים ישראלים
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cc3/0/master.m3u8
 
+#EXTINF:0 group-title=" סרטים+" tvg-name="IL: HOT Cinema Israeli HD" tvg-logo="http://troya.tv/images/chIcons/1133.png",HOT סרטים ישראלים
+https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cbb/0/master.m3u8
+
 #EXTINF:0 group-title=" עידן+" tvg-name="IL: Channel 11" tvg-logo="http://troya.tv/images/chIcons/428.png",ערוץ 11
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cec/0/master.m3u8
 
