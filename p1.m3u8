@@ -1,3 +1,7 @@
+#EXTM3U " url-tvg="http://epg.team/tvteam.3.1.xml"
+
+
+
 #EXTINF:0 group-title="מקור-1" tvg-id="IL: Channel 11" tvg-logo="http://epg.one/img2/2673.png" tvg-rec="3",כאן 11
 http://rhsbjv7k.tvclub.xyz/iptv/HQ2XGEHBELU49T/2332/index.m3u8
 #EXTINF:0 group-title="מקור-1" tvg-id="IL: Channel 12" tvg-logo="http://epg.one/img2/2670.png" tvg-rec="3",קשת 12
@@ -50,13 +54,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/HQ2XGEHBELU49T/7203/index.m3u8
 
 
 
-🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗🎗
 
 
 
 
 
-#EXTM3U " url-tvg="http://epg.team/tvteam.3.1.xml"
+
+
 
 #EXTINF:0 group-title=" ספורט ישראלי+" tvg-name="IL: Sport 1 FHD" tvg-logo="http://troya.tv/images/chIcons/1128.png",[COLOR aqua]ספורט 1[/COLOR]
 http://4.troya.info:34000/ch1128/mono.m3u8?token=mokroe2.HCweP2Rs3tJOQhFZuuBLKRTTDruzIdx1WWNqlkyXqcQ2sr0JXhU2BfUh_MqzOKMq
