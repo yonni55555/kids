@@ -1,21 +1,39 @@
-#EXTM3U " url-tvg="http://epg.team/tvteam.3.1.xml"
+#EXTM3U " כתובת URL של tvg="http://epg.team/tvteam.3.1.xml"
 
 
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Channel 11" tvg-logo="http://epg.one/img2/2673.png",כאן 11
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-name="IL: Erez Nehederet HD" tvg-logo="http://troya.tv/images/chIcons/2544.png",ארץ נהדרת
+https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_5761024_p_0.m3u8
+
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-name="IL: Savri HD" tvg-logo="http://troya.tv/images/chIcons/2545.png",סברי מרנן
+https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/video_5761024_p_0.m3u8
+
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-name="IL: Free Tv Hatuna HD" tvg-logo="http://troya.tv/images/chIcons/1183.png",חתונה ממבט ראשון
+https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/video_5761024_p_0.m3u8
+
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-name="IL: Free Tv Ninja HD" tvg-logo="https://img.mako.co.il/2024/05/30/ninja_channel_Enologo.jpg",נינג'ה ישראל
+https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/video_5761024_p_0.m3u8
+
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-name="IL: Free Tv Kohav Haba HD" tvg-logo="http://troya.tv/images/chIcons/2087.png",הכוכב הבא
+https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/video_5761024_p_0.m3u8
+
+
+
+
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: ערוץ 11" tvg-logo="http://epg.one/img2/2673.png",כאן 11
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2332/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Channel 12" tvg-logo="http://epg.one/img2/2670.png",קשת 12
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: ערוץ 12" tvg-logo="http://epg.one/img2/2670.png",קשת 12
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2349/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Channel 13" tvg-logo="http://epg.one/img2/2671.png",רשת13
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: ערוץ 13" tvg-logo="http://epg.one/img2/2671.png",רשת13
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2330/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Channel 14" tvg-logo="http://epg.one/img2/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: ערוץ 14" tvg-logo="http://epg.one/img2/4296.png",ערוץ 14
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12242/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Channel 14" tvg-logo="http://epg.one/img2/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: ערוץ 14" tvg-logo="http://epg.one/img2/4296.png",ערוץ 14
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12239/index.m3u8
 #EXTINF:0 group-title="מקור-1" tvg-id="IL: Kan Chinuchit 23" tvg-logo="http://epg.one/img2/2711.png",כאן חינוכית 23
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2380/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: i24 News" tvg-logo="http://epg.one/img2/2717.png",i24
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: חדשות i24" tvg-logo="http://epg.one/img2/2717.png",i24
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2386/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Channel 24" tvg-logo="http://epg.one/img2/9049.png",ערוץ 24
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: ערוץ 24" tvg-logo="http://epg.one/img2/9049.png",ערוץ 24
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12237/index.m3u8
 #EXTINF:0 group-title="מקור-1" tvg-id="IL: Makan 33 HD" tvg-logo="http://epg.one/img2/2712.png",מכאן 33
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2381/index.m3u8
@@ -29,15 +47,15 @@ http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12250/index.m3u8
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12251/index.m3u8
 #EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 4 FHD" tvg-logo="http://epg.one/img2/2720.png",ספורט 4
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2389/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5" tvg-logo="http://epg.one/img2/2682.png",5 ספורט 
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5" tvg-logo="http://epg.one/img2/2682.png",5 ספורט
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2391/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5" tvg-logo="http://epg.one/img2/2682.png",5 ספורט 
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5" tvg-logo="http://epg.one/img2/2682.png",5 ספורט
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2341/index.m3u8
 #EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5 Gold" tvg-logo="http://epg.one/img2/3992.png",5 ספורט גולד
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12254/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5 Livе" tvg-logo="http://epg.one/img2/3993.png",  ספורט 5 לייב
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5 Live" tvg-logo="http://epg.one/img2/3993.png", ספורט 5 לייב
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12255/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5 Livе" tvg-logo="http://epg.one/img2/4312.png",ספורט 5 לייב
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5 Live" tvg-logo="http://epg.one/img2/4312.png",ספורט 5 לייב
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2362/index.m3u8
 #EXTINF:0 group-title="מקור-1" tvg-id="IL: Sport 5 Stars" tvg-logo="http://epg.one/img2/3994.png",5 ספורט סטארס
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12278/index.m3u8
@@ -47,30 +65,30 @@ http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12232/index.m3u8
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/2340/index.m3u8
 #EXTINF:0 group-title="מקור-1" tvg-id="IL: ONE 2 HD" tvg-logo="http://epg.one/img2/2704.png",One 2
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/12231/index.m3u8
-#EXTINF:0 group-title="מקור-1" tvg-id="IL: Eurosport 2 HD" tvg-logo="http://epg.one/img2/4313.png",Euroספורט 2 orig
+#EXTINF:0 group-title="מקור-1" tvg-id="IL: Eurosport 2 HD" tvg-logo="http://epg.one/img2/4313.png",Eurosport 2 orig
 http://96dc02c9.ottolok.net/iptv/FSA7DBKQVFKXM8/7203/index.m3u8
 
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 5 Plus" tvg-logo="http://troya.tv/images/chIcons/1134.png",ספורט 5 Plus
+#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 5 Plus" tvg-logo="http://troya.tv/images/chIcons/1134.png",ספורט 5 פלוס
 https://play.embyil.tv/emby/videos/2350798/master.m3u8
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: ONE 2 HD" tvg-logo="http://troya.tv/images/chIcons/1145.png",ONE 2
+#EXTINF:0 group-title="embyil.tv-ISRAEL" tvg-name="IL: ONE 2 HD" tvg-logo="http://troya.tv/images/chIcons/1145.png",ONE 2
 https://play.embyil.tv/emby/videos/2299425/master.m3u8
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: ONE 1 HD" tvg-logo="http://troya.tv/images/chIcons/1186.png",ONE 1
+#EXTINF:0 group-title="embyil.tv-ISRAEL" tvg-name="IL: ONE 1 HD" tvg-logo="http://troya.tv/images/chIcons/1186.png",ONE 1
 https://play.embyil.tv/emby/videos/2299424/master.m3u8
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 5 Gold" tvg-logo="http://troya.tv/images/chIcons/1135.png",ספורט 5 Gold
+#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: ספורט 5 זהב" tvg-logo="http://troya.tv/images/chIcons/1135.png",ספורט 5 זהב
 https://play.embyil.tv/emby/videos/2299423/master.m3u8
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 5 Stars" tvg-logo="http://troya.tv/images/chIcons/1156.png",ספורט 5 Stars
+#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: ספורט 5 כוכבים" tvg-logo="http://troya.tv/images/chIcons/1156.png",ספורט 5 כוכבים
 https://play.embyil.tv/emby/videos/2299422/master.m3u8
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 5 Livе" tvg-logo="http://troya.tv/images/chIcons/1155.png",ספורט 5 Livе
+#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 5 Live" tvg-logo="http://troya.tv/images/chIcons/1155.png",ספורט 5 Live
 https://play.embyil.tv/emby/videos/2299421/master.m3u8
 #EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 5" tvg-logo="http://troya.tv/images/chIcons/1132.png",ספורט 5
 https://play.embyil.tv/emby/videos/2299420/master.m3u8
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 4 FHD" tvg-logo="http://troya.tv/images/chIcons/1131.png",ספורט 4
+#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: ספורט 4 FHD" tvg-logo="http://troya.tv/images/chIcons/1131.png",ספורט 4
 https://play.embyil.tv/emby/videos/2299419/master.m3u8
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 3 FHD" tvg-logo="http://troya.tv/images/chIcons/1130.png",ספורט 3
+#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: ספורט 3 FHD" tvg-logo="http://troya.tv/images/chIcons/1130.png",ספורט 3
 https://play.embyil.tv/emby/videos/2299418/master.m3u8
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 2 FHD" tvg-logo="http://troya.tv/images/chIcons/1129.png",ספורט 2
+#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: ספורט 2 FHD" tvg-logo="http://troya.tv/images/chIcons/1129.png",ספורט 2
 https://play.embyil.tv/emby/videos/2299417/master.m3u8
-#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: Sport 1 FHD" tvg-logo="http://troya.tv/images/chIcons/1128.png",ספורט 1
+#EXTINF:0 group-title="embyil.tv-ISRAEL " tvg-name="IL: ספורט 1 FHD" tvg-logo="http://troya.tv/images/chIcons/1128.png",ספורט 1
 https://play.embyil.tv/emby/videos/2299416/master.m3u8
 
 
@@ -96,7 +114,7 @@ https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cb3/0/master.m3u8
 #EXTINF:0 group-title=" ספורט ישראלי " tvg-name="IL: Sport 5" tvg-logo="http://troya.tv/images/chIcons/1132.png",ספורט 5
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cb8/0/master.m3u8
 
-#EXTINF:0 group-title=" ספורט ישראלי " tvg-name="IL: Sport 5 Livе" tvg-logo="http://troya.tv/images/chIcons/1155.png",ספורט 5 Livе
+#EXTINF:0 group-title=" ספורט ישראלי " tvg-name="IL: Sport 5 Live" tvg-logo="http://troya.tv/images/chIcons/1155.png",ספורט 5 Live
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cb9/0/master.m3u8
 
 #EXTINF:0 group-title=" סדרות " tvg-name="IL: Free Tv Comedy HD" tvg-logo="http://troya.tv/images/chIcons/2540.png",פריטיוי סדרות קומדיה
@@ -111,25 +129,25 @@ https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cc6/0/master.m3u8
 #EXTINF:0 group-title=" סרטים " tvg-name="IL: Free Movies Action HD" tvg-logo="http://troya.tv/images/chIcons/2537.png",פריטיוי-סרטים אקשן
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cc4/0/master.m3u8
 
-#EXTINF:0 group-title=" סרטים " tvg-name="IL: Free Israeli Movies HD" tvg-logo="http://troya.tv/images/chIcons/2538.png",פריטיוי-סרטים ישראלים
+#EXTINF:0 group-title=" סרטים " tvg-name="IL: סרטים ישראלים בחינם HD" tvg-logo="http://troya.tv/images/chIcons/2538.png",פריטיוי-סרטים ישראלים
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cc3/0/master.m3u8
 
 #EXTINF:0 group-title=" סרטים " tvg-name="IL: HOT Cinema Israeli HD" tvg-logo="http://troya.tv/images/chIcons/1133.png",HOT סרטים ישראלים
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cbb/0/master.m3u8
 
-#EXTINF:0 group-title=" עידן " tvg-name="IL: Channel 11" tvg-logo="http://troya.tv/images/chIcons/428.png",ערוץ 11
+#EXTINF:0 group-title=" עידן " tvg-name="IL: ערוץ 11" tvg-logo="http://troya.tv/images/chIcons/428.png",ערוץ 11
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cec/0/master.m3u8
 
-#EXTINF:0 group-title=" עידן " tvg-name="IL: Channel 12" tvg-logo="http://troya.tv/images/chIcons/429.png",ערוץ 12
+#EXTINF:0 group-title=" עידן " tvg-name="IL: ערוץ 12" tvg-logo="http://troya.tv/images/chIcons/429.png",ערוץ 12
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5ca9/0/master.m3u8
 
-#EXTINF:0 group-title=" עידן " tvg-name="IL: Channel 13" tvg-logo="http://troya.tv/images/chIcons/430.png",ערוץ 13
+#EXTINF:0 group-title=" עידן " tvg-name="IL: ערוץ 13" tvg-logo="http://troya.tv/images/chIcons/430.png",ערוץ 13
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5cab/0/master.m3u8
 
-#EXTINF:0 group-title=" עידן " tvg-name="IL: Channel 14" tvg-logo="http://troya.tv/images/chIcons/1119.png",ערוץ 14
+#EXTINF:0 group-title=" עידן " tvg-name="IL: ערוץ 14" tvg-logo="http://troya.tv/images/chIcons/1119.png",ערוץ 14
 https://tv.embyil.tv:82/2/67e75601f5dd41ffe5fe5caa/0/master.m3u8
 
-#EXTINF:0 group-title=" עידן " tvg-name="IL: Channel 24" tvg-logo="http://troya.tv/images/chIcons/1142.png",ערוץ 24
+#EXTINF:0 group-title=" עידן " tvg-name="IL: ערוץ 24" tvg-logo="http://troya.tv/images/chIcons/1142.png",ערוץ 24
 https://tv.embyil.tv:82/2/67edec7ef5dd41ffe5fe5cf9/0/master.m3u8
 
 #EXTINF:0 group-title=" עידן " tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",i24 חדשות
@@ -162,7 +180,7 @@ http://v2202506280616350431.megasrv.de:8080/289689/The.Hard.Way.1991.1080p.BluRa
 
 
 #EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/zHJbL26SdgeWbKFJVKNfEI4LJwS.jpg",פלאשבק
-https://main12X.b-cdn.net/lAUyhgj5q5FmHAwV81Jupj4/%D7%A1%D7%A8%D7%98%D7%99%D7%9D%20%D7%94%D7%A2%D7%9C%D7%90%D7%94%20%D7%92%D7%93%D7%95%D7%9C%D7%94/%D7%A4%D7%9C%D7%90%D7%A9%D7%91%D7%A7%20Flashback.2020.720P.Bluray.X264.Pignus.Hebsub.Www.Moridim.Club.mp4?token=d15abfs-9fe2-4b84-b979-jeff21bcad13
+https://main12X.b-cdn.net/lAUyhgj5q5FmHAwV81Jupj4/%D7%A1%D7%A8%D7%98%D7%99%D7%9D%20%D7%94%D7%A2%D7%9C%D7%90%D7%94%20%D7%92%D7%93%D7%95%D7%9C%D7%94/ %D7%A4%D7%9C%D7%90%D7%A9%D7%91%D7%A7%20Flashback.2020.720P.Bluray.X264.Pignus.Hebsub.Www.Moridim.Club.mp4?token=d15abfs-842b-942b9-942b9-932b-932b-932b-932b-942b-932b-912b9
 
 #EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/phwuQrs557cJkRhoS1TVWsslnJK.jpg",צמד לעניין
 http://v2202506280616350431.megasrv.de:8080/289725/1080p+BluRay+1991+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7%94+%D7%A6%D7%9E%D7%93+%D7%9C%D7%A2%D7%A0%D7%99%D7%99%D7%9F.mp4?hash=AgADBQ
@@ -171,11 +189,11 @@ http://v2202506280616350431.megasrv.de:8080/289725/1080p+BluRay+1991+%D7%96%D7%9
 
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/l75Wk0uZ4YOguM5lSYrB8hLbu0H.jpg",נשק קטלני 3
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/l75Wk0uZ4YOguM5lSYrB8hLbu0H.jpg", נשק קטלני 3
 http://v2202506280616350431.megasrv.de:8080/289745/%D7%9C%D7%95%D7%9C%D7%95_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%A0%D7%A9%D7%A7_%D7%A7%D7%98%D7%9C%D7%A0%D7%99_3_1992_%D7%AA.%D7%9E_1080P.mkv?hash=AgAD4R
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/e4hYSXfTMeP69Ew79zBHf7oFIU4.jpg",נשק קטלני 4
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/e4hYSXfTMeP69Ew79zBHf7oFIU4.jpg", נשק קטלני 4
 http://v2202506280616350431.megasrv.de:8080/289727/1080p+BIuRay+1998+%D7%96.%D7%9E+%D7%A0%D7%A9%D7%A7+%D7%A7%D7%98%D7%9C%D7%A0%D7%99+4.mp4?hash=AgADbg
 
 
@@ -231,7 +249,7 @@ http://v2202506280616350431.megasrv.de:8080/289825/The.Truman.Show.1998.2160p.Bl
 #EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",10 דברים שאני הכי שונאת אצלך
 http://v2202506280616350431.megasrv.de:8080/289827/10+%D7%93%D7%91%D7%A8%D7%99%D7%9D.mp4?hash=AgADzR
 
-#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/xnImmsyoPgvzM395mzsssJlaHuG.jpg",אמריקן פאי
+#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/xnImmsyoPgvzM395mzsssJlaHuG.jpg",אמר פאיקן
 http://v2202506280616350431.megasrv.de:8080/289829/%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%9F+%D7%A4%D7%90%D7%99+1999.mp4?hash=AgADNQ
 
 
@@ -239,7 +257,7 @@ http://v2202506280616350431.megasrv.de:8080/289829/%D7%90%D7%9E%D7%A8%D7%99%D7%A
 #EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",נוטינג היל
 http://v2202506280616350431.megasrv.de:8080/289831/%D7%9C%D7%95%D7%9C%D7%95_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%A0%D7%95%D7%98%D7%99%D7%A0%D7%92_%D7%94%D7%99%D7%9C_1999_%D7%AA.%D7%9E_1080P.mkv?hash=AgADzB
 
-#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",קלולס
+#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",קלוס
 http://v2202506280616350431.megasrv.de:8080/289833/1080p+BluRay+1995+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7%94+%D7%A7%D7%9C%D7%95%D7%9C%D7%A1.mkv?hash=AgADjx
 
 
@@ -265,7 +283,7 @@ http://v2202506280616350431.megasrv.de:8080/289843/%D7%A9%D7%A7%D7%A8%D7%9F_%D7%
 http://v2202506280616350431.megasrv.de:8080/289847/%D7%92%27%D7%A8%D7%99_%D7%9E%D7%92%D7%95%D7%95%D7%99%D7%A8_1996_BluRay_1080P_%D7%A2%22%D7%99_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%91%D7%9F_%D7%92%D7%91%D7%99%D7%A8.mp4?hash=AgAD1x
 
 #EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",קסם מעשי
-http://v2202506280616350431.megasrv.de:8080/289849/1080p+BluRay+1998+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7%94+%D7%A7%D7%A1%D7%9D+%D7%9E%D7%A2%D7%A9%D7%99.mkv?hash=AgADAh
+http://v2202506280616350431.megasrv.de:8080/289849/1080p+BluRay+1998+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7%94+%D7%A7%D7%A1%D7%9D+%D7%9E%D7%A2%D7%A9%D7%99.mkv?hash=AgADah
 
 #EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/kkWxyyyWFK5KNk9WVwQuGEC9H9H.jpg",מוות נאה לה
 http://v2202506280616350431.megasrv.de:8080/289851/1080p+BluRay+1992+%D7%A0%D7%AA%D7%99+%D7%9E%D7%93%D7%99%D7%94+%D7%94%D7%9E%D7%95%D7%95%D7%AA+%D7%A0%D7%90%D7%94+%D7%9C%D7%94.mkv?hash=AgAD7A
@@ -305,18 +323,18 @@ http://v2202506280616350431.megasrv.de:8080/289867/%D7%9E%D7%93%D7%99%D7%94+VOD+
 
 
 
-#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",יש לך הודעה
+#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg", יש לך הודעה
 http://v2202506280616350431.megasrv.de:8080/289869/1080p+BluRay+1998+%D7%96.%D7%9E+%D7%99%D7%A9+%D7%9C%D7%9A+%D7%94%D7%95%D7%93%D7%A2%D7%94.mkv?hash=AgADHB
 
 #EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/eISWLKnpxy7q0TN7F1n8des8TF0.jpg",להיות גון מלקוביץ
 http://v2202506280616350431.megasrv.de:8080/289871/1080p+BluRay+1999+%D7%9C%D7%94%D7%99%D7%95%D7%AA+%D7%92%27%D7%95%D7%9F+%D7%9E%D7%9C%D7%A7%D7%95%D7%91%D7%99%D7%A5%27.mp4?hash=AgADeh
 
-#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",ארבע חתונות ולוויה אחת
+#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg", ארבע חתונות ולוויה אחת
 http://v2202506280616350431.megasrv.de:8080/289873/1080p+BluRay+1994+%D7%90%D7%A8%D7%91%D7%A2+%D7%97%D7%AA%D7%95%D7%A0%D7%95%D7%AA+%D7%95%D7%9C%D7%95%D7%95%D7%99%D7%94+%D7%90%D7%97%D7%AA.mp4?hash=AgADfB
 
 
 
-#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/kJ7syYXEJgSBmBfSnF3Can9cK1J.jpg",הרפתקאותיה של פריסילה, מלכת המדבר
+#EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/kJ7syYXEJgSBmBfSnF3Can9cK1J.jpg",הרפתקאותיה של פריסילה,
 http://v2202506280616350431.megasrv.de:8080/289875/%D7%94%D7%A8%D7%A4%D7%AA%D7%A7%D7%90%D7%95%D7%AA_%D7%A4%D7%A8%D7%A1%D7%99%D7%9C%D7%99%D7%94_%D7%9E%D7%9C%D7%9B%D7%AA_%D7%94%D7%9E%D7%93%D7%91%D7%A8_%D7%9C%D7%95%D7%99_%D7%9E%D7%93%D7%99%D7%94.mp4?hash=AgADrg
 
 #EXTINF:0 group-title="[B][COLOR green]סרטים קומדיה שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/ZUYBu4ddwT6Hqo176XhJYZ56fT.jpg",הכי טוב שיש
@@ -332,14 +350,14 @@ http://v2202506280616350431.megasrv.de:8080/290443/1080p+WEB-DL+1987+%D7%96.%D7%
 
 
 
-#EXTINF:0 group-title="[B][COLOR aqua]סרטים ישראלים שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/42uxG19RV2ooZhsvJmOgxqjUjWo.jpg",משפחת צנעני
+#EXTINF:0 group-title="[B][COLOR aqua]סרטים ישראלים שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/42uxG19RV2ooZhsvJmOgxqjUjWo.jpg", משפחת צנעני
 http://v2202506280616350431.megasrv.de:8080/290989/1080p+WEB-DL+1976+%D7%96.%D7%9E+%D7%9E%D7%A9%D7%A4%D7%97%D7%AA+%D7%A6%D7%A0%D7%A2%D7%A0%D7%99.mkv?hash=AgAD2B
 
-#EXTINF:0 group-title="[B][COLOR aqua]סרטים ישראלים שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/r6zBsZh2f255aJnZWZ5dwL24qUT.jpg",גבעת חלפון אינה עונה
-$$$$$$$$$$$$$$$$193355/Halfon.Hill.Doesnt.Answer.1976.1080p.WEB-DL.x264-SweatyHands.mkv?hash=AgADQB
+#EXTINF:0 group-title="[B][COLOR aqua]סרטים ישראלים שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/r6zBsZh2f255aJnZWZ5dwL24qUT.jpg",גבעת חלפון אינה .
+$$$$$$$$$$$$$$$$193355/Halfon.Hill.Does.Answer.1976.1080p.WEB-DL.x264-SweatyHands.mkv?hash=AgADQB
 
 #EXTINF:0 group-title="[B][COLOR aqua]סרטים ישראלים שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/tRLW58n29DaP9QZHcuVLV9SYyfF.jpg",יופי של צרות
-$$$$$$$$$$$$$$$$193357/DVDRip+1976+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7%94+%D7%99%D7%95%D7%A4%D7%99+%D7%A9%D7%9C+%D7%A6%D7%A8%D7%95%D7%AA.mkv?hash=AgADUg
+$$$$$$$$$$$$$$$$193357/DVDRip+1976+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7 %94+%D7%99%D7%95%D7%A4%D7%99+%D7%A9%D7%9C+%D7%A6%D7%A8%D7%95%D7%AA.mkv?hash=AgADUg
 
 #EXTINF:0 group-title="[B][COLOR aqua]סרטים ישראלים שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/4wZUf2gDQLsXRkQ0LczwGwjtvWK.jpg",אדון ליאון
 http://v2202506280616350431.megasrv.de:8080/290991/%D7%9C%D7%95%D7%9C%D7%95_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%90%D7%93%D7%95%D7%9F_%D7%9C%D7%99%D7%90%D7%95%D7%9F_1982_720p.mkv?hash=AgADzB
@@ -351,7 +369,7 @@ http://v2202506280616350431.megasrv.de:8080/290991/%D7%9C%D7%95%D7%9C%D7%95_%D7%
 
 
 
-#EXTINF:0 group-title="[B][COLOR aqua]סרטים ישראלים שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/9ZpxEoKwdLsR1ATRXxxPgvyUURF.jpg",טעות במספר
+#EXTINF:0 group-title="[B][COLOR aqua]סרטים ישראלים שהאבנו [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/9ZpxEoKwdLsR1ATRXxxPgvyUURF.jpg",טעות מיד
 http://v2202506280616350431.megasrv.de:8080/290993/%D7%98%D7%A2%D7%95%D7%AA+%D7%91%D7%9E%D7%A1%D7%A4%D7%A8+-+1979.avi?hash=AgADoQ
 
 
@@ -359,46 +377,46 @@ http://v2202506280616350431.megasrv.de:8080/290993/%D7%98%D7%A2%D7%95%D7%AA+%D7%
 
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/zpRpjzIYDtzX5sQ1oG2Et7jva1e.jpg",בלרינה
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/zpRpRpjzIYDtzX5sQ1oblnaGri",jva1etjpg,jva12Etjpgri",
 http://v2202506280616350431.megasrv.de:8080/290467/%D7%91%D7%9C%D7%A8%D7%99%D7%A0%D7%94+2025+%D7%92%D7%95%D7%96%D7%9C%D7%9F+%D7%90%D7%9C%D7%99%D7%A8%D7%9F+720p.mp4?hash=AgADxh
 
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/q5HzFzqmKrsEyovuXfPQlXsuzim.jpg",גון וויק 2
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/q5HzFzFzqmKrsEyovuXn .Xsfuzn .Xsnf
 http://v2202506280616350431.megasrv.de:8080/290473/%D7%92%27%D7%95%D7%9F+%D7%95%D7%95%D7%99%D7%A7+2+-+%D7%9C%D7%95%D7%99+%D7%9E%D7%93%D7%99%D7%94.mp4?hash=AgAD9A
 
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/obqGlRpJtTbVsGRMkw4YHjEVhyH.jpg",גון וויק 3
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/obqGlRpJtTbVsGRMkwn 3,HjGRMkwn 3.JPG",
 http://v2202506280616350431.megasrv.de:8080/290479/John.Wick.Chapter.3.Parabellum.2019.1080p.BluRay.x264-SPARKS.mp4?hash=AgADWA
 
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/bpEp09lTArV0tLoeHrU83oVu18k.jpg",נקודת שוויון
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/bpEp09lTArV0tLooeHr",1 8שוויוןLooeHr",
 http://v2202506280616350431.megasrv.de:8080/290481/1080p+BluRay+2014+%D7%96.%D7%9E+%D7%A0%D7%A7%D7%95%D7%93%D7%AA+%D7%A9%D7%95%D7%95%D7%99%D7%95%D7%9F.mp4?hash=AgADex
 
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/cTpUqq4pFDfaAaYtufnsIb65agP.jpg",מהיר ועצבני 7
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/cTpUqq4pFDfaAaYtufns.nima עצבמה ו- 7 , 7.
 http://v2202506280616350431.megasrv.de:8080/290483/%D7%9E%D7%94%D7%99%D7%A8_%D7%95%D7%A2%D7%A6%D7%91%D7%A0%D7%99_7_1080P_%D7%A2%22%D7%99_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%91%D7%9F_%D7%92%D7%91%D7%99%D7%A8.mp4?hash=AgADZw
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/1Z07Kqke0JyOn3ODt2t3qd2CEpN.jpg",עלייתו של האביר האפל
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/1Z07Kqke0JyOn3ODt2CE2t של האב האב האבאאעלjpgN3ODt2CE2t",
 http://v2202506280616350431.megasrv.de:8080/290485/%D7%9C%D7%95%D7%9C%D7%95_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%A2%D7%9C%D7%99%D7%99%D7%AA%D7%95_%D7%A9%D7%9C_%D7%94%D7%90%D7%91%D7%99%D7%A8_%D7%94%D7%90%D7%A4%D7%9C_2012_%D7%AA_%D7%9E_1080P.mkv?hash=AgADuR
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/8esSHg9cby7yYSKZ6sI4CsiIkuk.jpg",קינגסמן: השירות החשאי
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-igo="https://image.tmdb.org/t/p/w780/8esSHg9cby7yyKingsiZukn.jpg שירותים, החYSKZukn.jpg",
 http://v2202506280616350431.megasrv.de:8080/290487/ANVIP_1080p_%D7%A7%D7%99%D7%A0%D7%92%D7%A1%D7%9E%D7%9F_%D7%94%D7%A9%D7%99%D7%A8%D7%95%D7%AA_%D7%94%D7%97%D7%A9%D7%90%D7%99_2015_%D7%9E%D7%AA%D7%95%D7%A8%D7%92%D7%9D.mkv?hash=AgADZx
 
 
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/g8KB77SPA7SyU8eid6TAEpt9skU.jpg",אלוף ללא עוררין 3 - בלתי מנוצח
+ללא שם: #EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/g8KB77SPA7SyU8eidsk , בלתי אפשרי, -Eptאלין 3 , מנוצח
 http://v2202506280616350431.megasrv.de:8080/290489/BluRay+720p+%D7%90%D7%9C%D7%95%D7%A3+%D7%9C%D7%9C%D7%90+%D7%A2%D7%95%D7%A8%D7%A8%D7%99%D7%9F+3.mkv?hash=AgADbQ
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/eFJcm40RKFPByg1XN9SxyJC5Ia3.jpg",בייבי דרייבר
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/eFJcm40RKFByg1XbiN9S.jpg",
 http://v2202506280616350431.megasrv.de:8080/290491/%D7%97%D7%A0%D7%A0%D7%90%D7%9C+%D7%A1.+%D7%91%D7%99%D7%99%D7%91%D7%99+%D7%93%D7%A8%D7%99%D7%99%D7%91%D7%A8+2017+BluRay+1080p.mp4?hash=AgADng
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/wxnZKlMCFbCjrIw8ytgEkzb6Nkl.jpg",בלשים בעמ
+#EXTINF:0 group-title="[B][COLOR gold]סרטים שהאבנו[/B][/COLOR] [B][COLOR burlywood]לאחרונה [/COLOR][/B]" tvg-logo="https://image.tmdb.org/t/p/w780/wxnZKlMCFbCjrIw8njpg",Ekzbscheng",
 http://v2202506280616350431.megasrv.de:8080/290497/1080p+BluRay+2016+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7%94+%D7%91%D7%9C%D7%A9%D7%99%D7%9D+%D7%91%D7%A2%D7%9E.mp4?hash=AgADih
 
 
@@ -463,12 +481,12 @@ http://v2202506280616350431.megasrv.de:8080/291247/1080p+BluRay+2001+%D7%96.%D7%
 
 
 #EXTINF:0 group-title="[B][COLOR gold]סרטים זוכי אוסקר[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/wjClij6Jzazt2Dlv2GFWV1RSgy4.jpg",אמריקן ביוטי
-http://v2202506280616350431.megasrv.de:8080/291249/1080p+BluRay+1999+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7%94+%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%9F+%D7%91%D7%99%D7%95%D7%98%D7%99.mp4?hash=AgAD5Q
+http://v2202506280616350431.megasrv.de:8080/291249/1080p+Blu-Ray+1999+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7%94+%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%9F+%D7%91%D7%99%D7%95%D7%98%D7%99.mp4?hash=AgAD5Q
 
 #EXTINF:0 group-title="[B][COLOR gold]סרטים זוכי אוסקר[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",שייקספיר מאוהב
 http://v2202506280616350431.megasrv.de:8080/291251/1080p+BluRay+1998+%D7%96.%D7%9E+%D7%A9%D7%99%D7%99%D7%A7%D7%A1%D7%A4%D7%99%D7%A8+%D7%9E%D7%90%D7%95%D7%94%D7%91.mp4?hash=AgADmR
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים זוכי אוסקר[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/ob0CMseAea7cHPBJbTxT6V0kMt8.jpg",טיטניק
+#EXTINF:0 group-title="[B][COLOR gold]סרטים זוכי אוסקר[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/ob0CMseAea7cHPBJbTxT6V0kMt8.jpg",titnik
 http://v2202506280616350431.megasrv.de:8080/291253/%D7%9B%D7%9C+%D7%A1%D7%A8%D7%98+%D7%98%D7%99%D7%98%D7%A0%D7%99%D7%A7+1997+BluRay+720p.mkv?hash=AgADIQ
 
 #EXTINF:0 group-title="[B][COLOR gold]סרטים זוכי אוסקר[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/lcV3NVuTmABTBY6LqYHlaZZhOHg.jpg",הפצוע האנגלי
@@ -481,7 +499,7 @@ http://v2202506280616350431.megasrv.de:8080/291257/1080p+BluRay+1992+%D7%96%D7%9
 
 
 
-#EXTINF:0 group-title="[B][COLOR gold]סרטים זוכי אוסקר[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",זכרונות מאפריקה
+#EXTINF:0 group-title="[B][COLOR gold]סרטים זוכי אוסקר[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",זכרונות אפריקה
 http://v2202506280616350431.megasrv.de:8080/291259/%D7%9C%D7%95%D7%9C%D7%95_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%96%D7%9B%D7%A8%D7%95%D7%A0%D7%95%D7%AA_%D7%9E%D7%90%D7%A4%D7%A8%D7%99%D7%A7%D7%94_1985_%D7%AA_%D7%9E_720P.mkv?hash=AgADbQ
 
 
@@ -496,7 +514,6 @@ http://v2202506280616350431.megasrv.de:8080/291263/1080p+BluRay+1979+%D7%96.%D7%
 
 #EXTINF:0 group-title="[B][COLOR gold]סרטים זוכי אוסקר[/B][/COLOR]" tvg-logo="https://image.tmdb.org/t/p/w780/dR1ALiaiDz7GDZXSFfwaqBIkCl9.jpg",הסנדק
 http://v2202506280616350431.megasrv.de:8080/291265/The.Godfather.1.1972+1080p.BluRay.%D7%B3265.10bit.HebSubBed.mp4?hash=AgADtR
-
 
 
 
