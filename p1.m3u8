@@ -2,19 +2,19 @@
 
 
 
-#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Erez Nehederet HDlogo="" tvg-http://troya.tv/images/chIcons/2544.png",ארץ נהדרת
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Erez Nehederet HD" tvg-logo="http://troya.tv/images/chIcons/2544.png",ארץ נהדרת
 https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_5761024_p_0.m3u8
 
-#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Savri HDlogo="" tvg-http://troya.tv/images/chIcons/2545.png",סברי מרנן
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Savri HD" tvg-logo="http://troya.tv/images/chIcons/2545.png",סברי מרנן
 https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/video_5761024_p_0.m3u8
 
-#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Free Tv Hatuna HDlogo="" tvg-http://troya.tv/images/chIcons/1183.png",חתונה ממבט ראשון
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Free Tv Hatuna HD" tvg-logo="http://troya.tv/images/chIcons/1183.png",חתונה ממבט ראשון
 https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/video_5761024_p_0.m3u8
 
-#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Free Tv Ninja HDlogo="" tvg-https://img.mako.co.il/2024/05/30/ninja_channel_Enologo.jpg",נינג'ה ישראל
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Free Tv Ninja HD" tvg-logo="https://img.mako.co.il/2024/05/30/ninja_channel_Enologo.jpg",נינג'ה ישראל
 https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/video_5761024_p_0.m3u8
 
-#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Free Tv Kohav Haba HDlogo="" tvg-http://troya.tv/images/chIcons/2087.png",הכוכב הבא
+#EXTINF:0 group-title=" סדרות קשת 12 +" tvg-id="IL: Free Tv Kohav Haba HD" tvg-logo="http://troya.tv/images/chIcons/2087.png",הכוכב הבא
 https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/video_5761024_p_0.m3u8
 
 
