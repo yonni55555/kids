@@ -89,7 +89,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/12269/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/2355/index.m3u8
 #EXTINF:0 group-title="|" tvg-id="2700" tvg-logo="http://epg.one/img/2700.png",ערוץ 98
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/2369/index.m3u8
-#EXTINF:0 group-title="|" tvg-id="2709" tvg-logo="http://epg.one/img/2709.png"ערוץ הבריאות
+#EXTINF:0 group-title="|" tvg-id="2709" tvg-logo="http://epg.one/img/2709.png",ערוץ הבריאות
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/2378/index.m3u8
 #EXTINF:0 group-title="|" tvg-id="2710" tvg-logo="http://epg.one/img/2710.png",הוט בידור
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/2379/index.m3u8
@@ -209,9 +209,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/12264/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/12211/index.m3u8
 #EXTINF:0 group-title="|" tvg-id="4011" tvg-logo="http://epg.one/img/4011.png",ים תיכוני
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/2390/index.m3u8
-#EXTINF:0 group-title="|" tvg-id="4029" tvg-logo="http://epg.one/img/4029.png",ים תיכוני+
+#EXTINF:0 group-title="|" tvg-id="4029" tvg-logo="https://www.yes.co.il/media/itkf1ze0/yam-tichoni-plus.png",ים תיכוני+
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/12224/index.m3u8
-#EXTINF:0 group-title="|" tvg-id="4028" tvg-logo="http://epg.one/img/4028.png",ויווה פרימיום
+#EXTINF:0 group-title="|" tvg-id="4028" tvg-logo="https://i.ytimg.com/vi/csLil8lomD8/hqdefault.jpg",ויווה פרימיום
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/12226/index.m3u8
 
 
@@ -230,7 +230,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/2346/index.m3u8
 
 #EXTINF:0 group-title="|" tvg-id="2967" tvg-logo="http://epg.one/img/2967.png",יס סרטים לילדים
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/12273/index.m3u8
-#EXTINF:0 group-title="|" tvg-id="4003" tvg-logo="http://epg.one/img/4003.png",יס סרטים לילדים
+#EXTINF:0 group-title="|" tvg-id="2967" tvg-logo="http://epg.one/img/2967.png",יס סרטים לילדים
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/2365/index.m3u8
 #EXTINF:0 group-title="|" tvg-id="2968" tvg-logo="http://epg.one/img/2968.png",יס סרטים קומדיה
 http://rhsbjv7k.tvclub.xyz/iptv/26QTVTG6DBNGK5/2348/index.m3u8
