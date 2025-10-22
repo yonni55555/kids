@@ -5,31 +5,31 @@
 
 
 
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+#EXTINF:0 group-title="ליאם" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37697&extension=ts&play_token=Nuf0KLUhDQ
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+#EXTINF:0 group-title="ליאם" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37696&extension=ts&play_token=gwU24LgMtt
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+#EXTINF:0 group-title="ליאם" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37695&extension=ts&play_token=2Zm5IxpVTx
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="ליאם" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37694&extension=ts&play_token=axtlwXKKw8
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="ליאם" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37659&extension=ts&play_token=mz1kI1QLun
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="ליאם" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37691&extension=ts&play_token=4TYJ2gjpti
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="ליאם" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37691&extension=ts&play_token=4TYJ2gjpti
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
+#EXTINF:0 group-title="ליאם" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828739&extension=ts&play_token=cx1Y68dy0y
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
+#EXTINF:0 group-title="ליאם" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37692&extension=ts&play_token=C4QFBvSjRm
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="ליאם" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37690&extension=ts&play_token=mqp49cMdjK
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="ליאם" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37688&extension=ts&play_token=HTueVdGW3t
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+#EXTINF:0 group-title="ליאם" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37702&extension=ts&play_token=44JYoC8mi3
-#EXTINF:0 group-title="ספורט-מקור-דינמי" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="ליאם" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=872721&extension=ts&play_token=XzCrs7ql5S
 
 
@@ -40,155 +40,512 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=872721&e
 
 
 
-#EXTINF:0 group-title="עידן+-מקור-דינמי" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
+#EXTINF:0 group-title="ליאם" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035254&extension=ts&play_token=AxeTsUVFM6
-#EXTINF:0 group-title="עידן+-מקור-דינמי" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
+#EXTINF:0 group-title="ליאם" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035253&extension=ts&play_token=xVAgkBnFvS
-#EXTINF:0 group-title="עידן+-מקור-דינמי" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
+#EXTINF:0 group-title="ליאם" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035252&extension=ts&play_token=fc6Aqk5lRQ
-#EXTINF:0 group-title="עידן+-מקור-דינמי" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="ליאם" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035250&extension=ts&play_token=Zwy5jib0Gz
-#EXTINF:0 group-title="עידן+-מקור-דינמי" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
+#EXTINF:0 group-title="ליאם" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37711&extension=ts&play_token=28tIG9hS4j
-#EXTINF:0 group-title="עידן+-מקור-דינמי" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
+#EXTINF:0 group-title="ליאם" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37706&extension=ts&play_token=Fq9dMFIfSG
-#EXTINF:0 group-title="עידן+-מקור-דינמי" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
+#EXTINF:0 group-title="ליאם" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1163274&extension=ts&play_token=eQdCY9F3zZ
-#EXTINF:0 group-title="עידן+-מקור-דינמי" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
+#EXTINF:0 group-title="ליאם" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37709&extension=ts&play_token=wkYx2XWa3R
 
 
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="humor-channel-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png",ערוץ ההומור
+#EXTINF:0 group-title="ליאם" tvg-id="humor-channel-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png",ערוץ ההומור
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828901&extension=ts&play_token=fPuiAc8BNT
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="good-life-il" tvg-logo="http://epg.one/img/2686.png",החיים הטובים
+#EXTINF:0 group-title="ליאם" tvg-id="good-life-il" tvg-logo="http://epg.one/img/2686.png",החיים הטובים
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37716&extension=ts&play_token=etMg2d8r0N
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="health-il" tvg-logo="http://epg.one/img/2709.png", ערוץ בריאות
+#EXTINF:0 group-title="ליאם" tvg-id="health-il" tvg-logo="http://epg.one/img/2709.png", ערוץ בריאות
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828698&extension=ts&play_token=uvLeetVWTN
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="entertainment-il" tvg-logo="http://epg.one/img/2710.png",הוט בידור
+#EXTINF:0 group-title="ליאם" tvg-id="entertainment-il" tvg-logo="http://epg.one/img/2710.png",הוט בידור
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=79251&extension=ts&play_token=iuubeph6H4
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="" tvg-logo="http://epg.one/img/2710.png",פרטנר בידור
+#EXTINF:0 group-title="ליאם" tvg-id="" tvg-logo="http://epg.one/img/2710.png",פרטנר בידור
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828847&extension=ts&play_token=yWMNZqPDp9
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="hot3-hd-il" tvg-logo="http://epg.one/img/2698.png",הוט 3
+#EXTINF:0 group-title="ליאם" tvg-id="hot3-hd-il" tvg-logo="http://epg.one/img/2698.png",הוט 3
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37683&extension=ts&play_token=JGphJV9NaF
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="hot-8-il-hd" tvg-logo="http://epg.one/img/5023.png",הוט 8
+#EXTINF:0 group-title="ליאם" tvg-id="hot-8-il-hd" tvg-logo="http://epg.one/img/5023.png",הוט 8
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=79252&extension=ts&play_token=tV9WcSxDmU
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="hot-comedy-central-il-hd" tvg-logo="http://epg.one/img/5024.png",הוט קומדיה
+#EXTINF:0 group-title="ליאם" tvg-id="hot-comedy-central-il-hd" tvg-logo="http://epg.one/img/5024.png",הוט קומדיה
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=59322&extension=ts&play_token=2cR1YHJgP0
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="history-il" tvg-logo="http://epg.one/img/4014.png",ערוץ ההיסטוריה
+#EXTINF:0 group-title="ליאם" tvg-id="history-il" tvg-logo="http://epg.one/img/4014.png",ערוץ ההיסטוריה
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035224&extension=ts&play_token=kaLFmT959s
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="hot-bollywood-il" tvg-logo="http://epg.one/img/5071.png",בוליווד
+#EXTINF:0 group-title="ליאם" tvg-id="hot-bollywood-il" tvg-logo="http://epg.one/img/5071.png",בוליווד
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035280&extension=ts&play_token=wDlLyJw5cG
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="home-plus-il" tvg-logo="http://epg.one/img/2680.png",בית +
+#EXTINF:0 group-title="ליאם" tvg-id="home-plus-il" tvg-logo="http://epg.one/img/2680.png",בית +
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828716&extension=ts&play_token=8SOz0Ne0v4
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="discovery-hd-il" tvg-logo="http://epg.one/img/325.png",דיסקברי ערוץ
+#EXTINF:0 group-title="ליאם" tvg-id="discovery-hd-il" tvg-logo="http://epg.one/img/325.png",דיסקברי ערוץ
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=59327&extension=ts&play_token=46yq6aGDtu
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="yes-natgeo-il-hd" tvg-logo="http://epg.one/img/2677.png",נשיונאל גאוגרפיק
+#EXTINF:0 group-title="ליאם" tvg-id="yes-natgeo-il-hd" tvg-logo="http://epg.one/img/2677.png",נשיונאל גאוגרפיק
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37705&extension=ts&play_token=OBL2gwSmtz
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="yes-natgeo-wild-il-hd" tvg-logo="http://epg.one/img/4311.png",נשיונאל גוגרפיק Wild
+#EXTINF:0 group-title="ליאם" tvg-id="yes-natgeo-wild-il-hd" tvg-logo="http://epg.one/img/4311.png",נשיונאל גוגרפיק Wild
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37703&extension=ts&play_token=02BjFufQSQ
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="travel-channel-il" tvg-logo="http://epg.one/img/2692.png",ערוץ הטיולים
+#EXTINF:0 group-title="ליאם" tvg-id="travel-channel-il" tvg-logo="http://epg.one/img/2692.png",ערוץ הטיולים
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37658&extension=ts&play_token=o0UChQX3Lp
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="hot-zone-hd-il" tvg-logo="http://epg.one/img/2691.png",הוט Zone
+#EXTINF:0 group-title="ליאם" tvg-id="hot-zone-hd-il" tvg-logo="http://epg.one/img/2691.png",הוט Zone
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035257&extension=ts&play_token=mH2szktADv
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="e-il" tvg-logo="http://epg.one/img/4005.png",E!
+#EXTINF:0 group-title="ליאם" tvg-id="e-il" tvg-logo="http://epg.one/img/4005.png",E!
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37723&extension=ts&play_token=4EV5piRkYX
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="hot-real-il-hd" tvg-logo="https://www.hot.net.il/UploadedImages//03_2020/HOT_REAL_LOGO_510_147.png",הוט ריאלטי
+#EXTINF:0 group-title="ליאם" tvg-id="hot-real-il-hd" tvg-logo="https://www.hot.net.il/UploadedImages//03_2020/HOT_REAL_LOGO_510_147.png",הוט ריאלטי
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828922&extension=ts&play_token=Svr7s15TPe
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="hot-hbo-il" tvg-logo="http://epg.one/img/2685.png",הוט HBO
+#EXTINF:0 group-title="ליאם" tvg-id="hot-hbo-il" tvg-logo="http://epg.one/img/2685.png",הוט HBO
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828924&extension=ts&play_token=XxyQs0Ewp6
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="foody-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/9845a9f5ac2ab723860193771dc7159d.png",ערוץ האוכל
+#EXTINF:0 group-title="ליאם" tvg-id="foody-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/9845a9f5ac2ab723860193771dc7159d.png",ערוץ האוכל
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828709&extension=ts&play_token=gCx5yyHveP
-#EXTINF:0 group-title="ערוצי הוט מקור-דינמי" tvg-id="food-network-il" tvg-logo="https://centralcanada.org/static/upload/image/20241209/1733688465612785.jpg",רשת האוכל
+#EXTINF:0 group-title="ליאם" tvg-id="food-network-il" tvg-logo="https://centralcanada.org/static/upload/image/20241209/1733688465612785.jpg",רשת האוכל
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37719&extension=ts&play_token=RguOMwoZeG
 
 
 
 
 
-#EXTINF:0 group-title="הוט סרטים מקור-דינמי" tvg-id="hot-cinema1-il" tvg-logo="http://epg.one/img/2688.png",הוט סרטים 1
+#EXTINF:0 group-title="ליאם" tvg-id="hot-cinema1-il" tvg-logo="http://epg.one/img/2688.png",הוט סרטים 1
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1163265&extension=ts&play_token=gzbY2VLXVE
-#EXTINF:0 group-title="הוט סרטים מקור-דינמי" tvg-id="hot-cinema2-il" tvg-logo="http://epg.one/img/2702.png",הוט סרטים 2
+#EXTINF:0 group-title="ליאם" tvg-id="hot-cinema2-il" tvg-logo="http://epg.one/img/2702.png",הוט סרטים 2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1163266&extension=ts&play_token=yM4HZsGnZK
-#EXTINF:0 group-title="הוט סרטים מקור-דינמי" tvg-id="hot-cinema3-il" tvg-logo="http://epg.one/img/2703.png",הוט סרטים 3
+#EXTINF:0 group-title="ליאם" tvg-id="hot-cinema3-il" tvg-logo="http://epg.one/img/2703.png",הוט סרטים 3
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1163267&extension=ts&play_token=DcbKa7ylNF
-#EXTINF:0 group-title="הוט סרטים מקור-דינמי" tvg-id="hot-cinema4-il" tvg-logo="http://epg.one/img/2687.png",הוט סרטים 4
+#EXTINF:0 group-title="ליאם" tvg-id="hot-cinema4-il" tvg-logo="http://epg.one/img/2687.png",הוט סרטים 4
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1163268&extension=ts&play_token=gbC8JmOEno
-#EXTINF:0 group-title="הוט סרטים מקור-דינמי" tvg-id="cinema-family-il-hd" tvg-logo="http://epg.one/img/9056.png",הוט סרטים משפחה
+#EXTINF:0 group-title="ליאם" tvg-id="cinema-family-il-hd" tvg-logo="http://epg.one/img/9056.png",הוט סרטים משפחה
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828932&extension=ts&play_token=R0QsCdoWnk
 
 
 
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="yes-disney-il-hd" tvg-logo="http://epg.one/img/4307.png",דיסני ערוץ
+#EXTINF:0 group-title="ליאם" tvg-id="yes-disney-il-hd" tvg-logo="http://epg.one/img/4307.png",דיסני ערוץ
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035234&extension=ts&play_token=lwkAoqP55k
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="disney-jr-il" tvg-logo="http://epg.one/img/2674.png",דיסני ג'וניור
+#EXTINF:0 group-title="ליאם" tvg-id="disney-jr-il" tvg-logo="http://epg.one/img/2674.png",דיסני ג'וניור
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035233&extension=ts&play_token=TT7NaTANCc
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="teennick-il" tvg-logo="http://epg.one/img/2675.png",טיניק
+#EXTINF:0 group-title="ליאם" tvg-id="teennick-il" tvg-logo="http://epg.one/img/2675.png",טיניק
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828707&extension=ts&play_token=pk0Oi6KkFw
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="nick-jr-il" tvg-logo="http://epg.one/img/2678.png",ניק ג'וניור
+#EXTINF:0 group-title="ליאם" tvg-id="nick-jr-il" tvg-logo="http://epg.one/img/2678.png",ניק ג'וניור
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035207&extension=ts&play_token=5Mb2x2bP8O
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="hop-childhood-il" tvg-logo="http://epg.one/img/2679.png",הופ!
+#EXTINF:0 group-title="ליאם" tvg-id="hop-childhood-il" tvg-logo="http://epg.one/img/2679.png",הופ!
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035262&extension=ts&play_token=a0DrSDfQsu
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="zoom-il" tvg-logo="http://epg.one/img/2690.png",זום
+#EXTINF:0 group-title="ליאם" tvg-id="zoom-il" tvg-logo="http://epg.one/img/2690.png",זום
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828704&extension=ts&play_token=JZhKsp8N4o
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="luli-il" tvg-logo="http://epg.one/img/2695.png",לולי
+#EXTINF:0 group-title="ליאם" tvg-id="luli-il" tvg-logo="http://epg.one/img/2695.png",לולי
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035260&extension=ts&play_token=nZlO43Hbnu
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="junior-il" tvg-logo="http://epg.one/img/2697.png",ג'וניור
+#EXTINF:0 group-title="ליאם" tvg-id="junior-il" tvg-logo="http://epg.one/img/2697.png",ג'וניור
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37712&extension=ts&play_token=4CHJ2Vu5xV
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="baby-il" tvg-logo="http://epg.one/img/2701.png",בייבי טיוי
+#EXTINF:0 group-title="ליאם" tvg-id="baby-il" tvg-logo="http://epg.one/img/2701.png",בייבי טיוי
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37727&extension=ts&play_token=YkYGR8MOuh
-#EXTINF:0 group-title="ערוצי ילדים מקור-דינמי" tvg-id="wiz-il" tvg-logo="http://epg.one/img/5087.png",ויז
+#EXTINF:0 group-title="ליאם" tvg-id="wiz-il" tvg-logo="http://epg.one/img/5087.png",ויז
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828705&extension=ts&play_token=8LoF96kgd6
 
 
 
-#EXTINF:0 group-title="טלנובלות מקור-דינמי" tvg-id="viva-plus-il" tvg-logo="https://af-play.com/storage/images/channel_logos/00d96e97e681402555d4f5cd327d1a1b.png",ויווה +
+#EXTINF:0 group-title="ליאם" tvg-id="viva-plus-il" tvg-logo="https://af-play.com/storage/images/channel_logos/00d96e97e681402555d4f5cd327d1a1b.png",ויווה +
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37685&extension=ts&play_token=VW5XqXH0rN
-#EXTINF:0 group-title="טלנובלות מקור-דינמי" tvg-id="turkish-dramas-plus-il" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות +
+#EXTINF:0 group-title="ליאם" tvg-id="turkish-dramas-plus-il" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות +
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1163273&extension=ts&play_token=AbbpA0Kiwl
-#EXTINF:0 group-title="טלנובלות מקור-דינמי" tvg-id="turkish-dramas-il-hd" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות 1
+#EXTINF:0 group-title="ליאם" tvg-id="turkish-dramas-il-hd" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות 1
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035239&extension=ts&play_token=li01Up74nE
-#EXTINF:0 group-title="טלנובלות מקור-דינמי" tvg-id="turkish-dramas2-il-hd" tvg-logo="http://epg.one/img/9075.png",דרמות טורקיות 2
+#EXTINF:0 group-title="ליאם" tvg-id="turkish-dramas2-il-hd" tvg-logo="http://epg.one/img/9075.png",דרמות טורקיות 2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035240&extension=ts&play_token=wVp4uJjB57
-#EXTINF:0 group-title="טלנובלות מקור-דינמי" tvg-id="turkish-dramas3-il-hd" tvg-logo="http://troya.tv/images/chIcons/2611.png",דרמות טורקיות 3
+#EXTINF:0 group-title="ליאם" tvg-id="turkish-dramas3-il-hd" tvg-logo="http://troya.tv/images/chIcons/2611.png",דרמות טורקיות 3
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1163272&extension=ts&play_token=cFyzdW9LTW
-#EXTINF:0 group-title="טלנובלות מקור-דינמי" tvg-id="yamtihoni-il" tvg-logo="http://epg.one/img/4011.png",ים תיכוני
+#EXTINF:0 group-title="ליאם" tvg-id="yamtihoni-il" tvg-logo="http://epg.one/img/4011.png",ים תיכוני
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035180&extension=ts&play_token=WIdySe1D47
-#EXTINF:0 group-title="טלנובלות מקור-דינמי" tvg-id="yam-tichoni-plus-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png",ים תיכוני+
+#EXTINF:0 group-title="ליאם" tvg-id="yam-tichoni-plus-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png",ים תיכוני+
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828909&extension=ts&play_token=8ENNiJ2Qbt
-#EXTINF:0 group-title="טלנובלות מקור-דינמי" tvg-id="viva-premium-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/915cd21fd982f50721f990f14e8faba9.png",ויווה פרימיום
+#EXTINF:0 group-title="ליאם" tvg-id="viva-premium-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/915cd21fd982f50721f990f14e8faba9.png",ויווה פרימיום
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828906&extension=ts&play_token=JKOF1SwfSV
 
 
 
 
 
-#EXTINF:0 group-title="יס סדרות מקור-דינמי" tvg-id="yes-docu-il-hd" tvg-logo="http://epg.one/img/2972.png",יס סדרות דוקו
+#EXTINF:0 group-title="ליאם" tvg-id="yes-docu-il-hd" tvg-logo="http://epg.one/img/2972.png",יס סדרות דוקו
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37667&extension=ts&play_token=WJ4TnoS8gb
-#EXTINF:0 group-title="יס סדרות מקור-דינמי" tvg-id="yes-drama-hd-il" tvg-logo="http://epg.one/img/4007.png",יס סדרות דרמה
+#EXTINF:0 group-title="ליאם" tvg-id="yes-drama-hd-il" tvg-logo="http://epg.one/img/4007.png",יס סדרות דרמה
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37666&extension=ts&play_token=AoqFX5p6mY
-#EXTINF:0 group-title="יס סדרות מקור-דינמי" tvg-id="yes-comedy-hd-il" tvg-logo="http://epg.one/img/4021.png",יס סדרות קומדיה
+#EXTINF:0 group-title="ליאם" tvg-id="yes-comedy-hd-il" tvg-logo="http://epg.one/img/4021.png",יס סדרות קומדיה
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37668&extension=ts&play_token=yBU5EtzLh5
-#EXTINF:0 group-title="יס סדרות מקור-דינמי" tvg-id="yes-action-hd-il" tvg-logo="http://epg.one/img/3999.png",יס סדרות אקשן
+#EXTINF:0 group-title="ליאם" tvg-id="yes-action-hd-il" tvg-logo="http://epg.one/img/3999.png",יס סדרות אקשן
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37669&extension=ts&play_token=lST061zSnI
 
 
-#EXTINF:0 group-title="יס סרטים מקור-דינמי" tvg-id="yes-israel-il" tvg-logo="https://af-play.com/storage/images/pack_logos/90c2d68dea64bc092417cbb0b7d5c0c4.png",יס ישראלי
+#EXTINF:0 group-title="ליאם" tvg-id="yes-israel-il" tvg-logo="https://af-play.com/storage/images/pack_logos/90c2d68dea64bc092417cbb0b7d5c0c4.png",יס ישראלי
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1828729&extension=ts&play_token=2I0we4Dk4R
-#EXTINF:0 group-title="יס סרטים מקור-דינמי" tvg-id="yes-movies-kids-hd-il" tvg-logo="http://epg.one/img/2967.png",יס סרטים לילדים
+#EXTINF:0 group-title="ליאם" tvg-id="yes-movies-kids-hd-il" tvg-logo="http://epg.one/img/2967.png",יס סרטים לילדים
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37670&extension=ts&play_token=z4wpn4rn4Z
-#EXTINF:0 group-title="יס סרטים מקור-דינמי" tvg-id="yes-movies-comedy-il" tvg-logo="http://epg.one/img/4021.png",יס סרטים קומדיה
+#EXTINF:0 group-title="ליאם" tvg-id="yes-movies-comedy-il" tvg-logo="http://epg.one/img/4021.png",יס סרטים קומדיה
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035214&extension=ts&play_token=1oZ2QZkC6U
-#EXTINF:0 group-title="יס סרטים מקור-דינמי" tvg-id="yes-movies-action-hd-il" tvg-logo="http://epg.one/img/2966.png",יס סרטים אקשן
+#EXTINF:0 group-title="ליאם" tvg-id="yes-movies-action-hd-il" tvg-logo="http://epg.one/img/2966.png",יס סרטים אקשן
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37674&extension=ts&play_token=uwZpQw7YmK
-#EXTINF:0 group-title="יס סרטים מקור-דינמי" tvg-id="yes-movies-drama-il-hd" tvg-logo="http://epg.one/img/2965.png",יס סרטים דרמה
+#EXTINF:0 group-title="ליאם" tvg-id="yes-movies-drama-il-hd" tvg-logo="http://epg.one/img/2965.png",יס סרטים דרמה
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1035213&extension=ts&play_token=VUW3n2XF9M
 
 
 
 
 
+#EXTINF:0 group-title="איתי" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37697&extension=ts&play_token=Nuf0KLUhDQ
+#EXTINF:0 group-title="איתי" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37696&extension=ts&play_token=gwU24LgMtt
+#EXTINF:0 group-title="איתי" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37695&extension=ts&play_token=2Zm5IxpVTx
+#EXTINF:0 group-title="איתי" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37694&extension=ts&play_token=axtlwXKKw8
+#EXTINF:0 group-title="איתי" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37659&extension=ts&play_token=mz1kI1QLun
+#EXTINF:0 group-title="איתי" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37691&extension=ts&play_token=4TYJ2gjpti
+#EXTINF:0 group-title="איתי" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37691&extension=ts&play_token=4TYJ2gjpti
+#EXTINF:0 group-title="איתי" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828739&extension=ts&play_token=cx1Y68dy0y
+#EXTINF:0 group-title="איתי" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37692&extension=ts&play_token=C4QFBvSjRm
+#EXTINF:0 group-title="איתי" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37690&extension=ts&play_token=mqp49cMdjK
+#EXTINF:0 group-title="איתי" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37688&extension=ts&play_token=HTueVdGW3t
+#EXTINF:0 group-title="איתי" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37702&extension=ts&play_token=44JYoC8mi3
+#EXTINF:0 group-title="איתי" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=872721&extension=ts&play_token=XzCrs7ql5S
 
 
+
+
+
+
+
+
+
+#EXTINF:0 group-title="איתי" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035254&extension=ts&play_token=AxeTsUVFM6
+#EXTINF:0 group-title="איתי" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035253&extension=ts&play_token=xVAgkBnFvS
+#EXTINF:0 group-title="איתי" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035252&extension=ts&play_token=fc6Aqk5lRQ
+#EXTINF:0 group-title="איתי" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035250&extension=ts&play_token=Zwy5jib0Gz
+#EXTINF:0 group-title="איתי" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37711&extension=ts&play_token=28tIG9hS4j
+#EXTINF:0 group-title="איתי" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37706&extension=ts&play_token=Fq9dMFIfSG
+#EXTINF:0 group-title="איתי" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1163274&extension=ts&play_token=eQdCY9F3zZ
+#EXTINF:0 group-title="איתי" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37709&extension=ts&play_token=wkYx2XWa3R
+
+
+#EXTINF:0 group-title="איתי" tvg-id="humor-channel-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png",ערוץ ההומור
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828901&extension=ts&play_token=fPuiAc8BNT
+#EXTINF:0 group-title="איתי" tvg-id="good-life-il" tvg-logo="http://epg.one/img/2686.png",החיים הטובים
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37716&extension=ts&play_token=etMg2d8r0N
+#EXTINF:0 group-title="איתי" tvg-id="health-il" tvg-logo="http://epg.one/img/2709.png", ערוץ בריאות
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828698&extension=ts&play_token=uvLeetVWTN
+#EXTINF:0 group-title="איתי" tvg-id="entertainment-il" tvg-logo="http://epg.one/img/2710.png",הוט בידור
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=79251&extension=ts&play_token=iuubeph6H4
+#EXTINF:0 group-title="איתי" tvg-id="" tvg-logo="http://epg.one/img/2710.png",פרטנר בידור
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828847&extension=ts&play_token=yWMNZqPDp9
+#EXTINF:0 group-title="איתי" tvg-id="hot3-hd-il" tvg-logo="http://epg.one/img/2698.png",הוט 3
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37683&extension=ts&play_token=JGphJV9NaF
+#EXTINF:0 group-title="איתי" tvg-id="hot-8-il-hd" tvg-logo="http://epg.one/img/5023.png",הוט 8
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=79252&extension=ts&play_token=tV9WcSxDmU
+#EXTINF:0 group-title="איתי" tvg-id="hot-comedy-central-il-hd" tvg-logo="http://epg.one/img/5024.png",הוט קומדיה
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=59322&extension=ts&play_token=2cR1YHJgP0
+#EXTINF:0 group-title="איתי" tvg-id="history-il" tvg-logo="http://epg.one/img/4014.png",ערוץ ההיסטוריה
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035224&extension=ts&play_token=kaLFmT959s
+#EXTINF:0 group-title="איתי" tvg-id="hot-bollywood-il" tvg-logo="http://epg.one/img/5071.png",בוליווד
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035280&extension=ts&play_token=wDlLyJw5cG
+#EXTINF:0 group-title="איתי" tvg-id="home-plus-il" tvg-logo="http://epg.one/img/2680.png",בית +
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828716&extension=ts&play_token=8SOz0Ne0v4
+#EXTINF:0 group-title="איתי" tvg-id="discovery-hd-il" tvg-logo="http://epg.one/img/325.png",דיסקברי ערוץ
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=59327&extension=ts&play_token=46yq6aGDtu
+#EXTINF:0 group-title="איתי" tvg-id="yes-natgeo-il-hd" tvg-logo="http://epg.one/img/2677.png",נשיונאל גאוגרפיק
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37705&extension=ts&play_token=OBL2gwSmtz
+#EXTINF:0 group-title="איתי" tvg-id="yes-natgeo-wild-il-hd" tvg-logo="http://epg.one/img/4311.png",נשיונאל גוגרפיק Wild
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37703&extension=ts&play_token=02BjFufQSQ
+#EXTINF:0 group-title="איתי" tvg-id="travel-channel-il" tvg-logo="http://epg.one/img/2692.png",ערוץ הטיולים
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37658&extension=ts&play_token=o0UChQX3Lp
+#EXTINF:0 group-title="איתי" tvg-id="hot-zone-hd-il" tvg-logo="http://epg.one/img/2691.png",הוט Zone
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035257&extension=ts&play_token=mH2szktADv
+#EXTINF:0 group-title="איתי" tvg-id="e-il" tvg-logo="http://epg.one/img/4005.png",E!
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37723&extension=ts&play_token=4EV5piRkYX
+#EXTINF:0 group-title="איתי" tvg-id="hot-real-il-hd" tvg-logo="https://www.hot.net.il/UploadedImages//03_2020/HOT_REAL_LOGO_510_147.png",הוט ריאלטי
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828922&extension=ts&play_token=Svr7s15TPe
+#EXTINF:0 group-title="איתי" tvg-id="hot-hbo-il" tvg-logo="http://epg.one/img/2685.png",הוט HBO
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828924&extension=ts&play_token=XxyQs0Ewp6
+#EXTINF:0 group-title="איתי" tvg-id="foody-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/9845a9f5ac2ab723860193771dc7159d.png",ערוץ האוכל
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828709&extension=ts&play_token=gCx5yyHveP
+#EXTINF:0 group-title="איתי" tvg-id="food-network-il" tvg-logo="https://centralcanada.org/static/upload/image/20241209/1733688465612785.jpg",רשת האוכל
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37719&extension=ts&play_token=RguOMwoZeG
+
+
+
+
+
+#EXTINF:0 group-title="איתי" tvg-id="hot-cinema1-il" tvg-logo="http://epg.one/img/2688.png",הוט סרטים 1
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1163265&extension=ts&play_token=gzbY2VLXVE
+#EXTINF:0 group-title="איתי" tvg-id="hot-cinema2-il" tvg-logo="http://epg.one/img/2702.png",הוט סרטים 2
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1163266&extension=ts&play_token=yM4HZsGnZK
+#EXTINF:0 group-title="איתי" tvg-id="hot-cinema3-il" tvg-logo="http://epg.one/img/2703.png",הוט סרטים 3
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1163267&extension=ts&play_token=DcbKa7ylNF
+#EXTINF:0 group-title="איתי" tvg-id="hot-cinema4-il" tvg-logo="http://epg.one/img/2687.png",הוט סרטים 4
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1163268&extension=ts&play_token=gbC8JmOEno
+#EXTINF:0 group-title="איתי" tvg-id="cinema-family-il-hd" tvg-logo="http://epg.one/img/9056.png",הוט סרטים משפחה
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828932&extension=ts&play_token=R0QsCdoWnk
+
+
+
+#EXTINF:0 group-title="איתי" tvg-id="yes-disney-il-hd" tvg-logo="http://epg.one/img/4307.png",דיסני ערוץ
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035234&extension=ts&play_token=lwkAoqP55k
+#EXTINF:0 group-title="איתי" tvg-id="disney-jr-il" tvg-logo="http://epg.one/img/2674.png",דיסני ג'וניור
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035233&extension=ts&play_token=TT7NaTANCc
+#EXTINF:0 group-title="איתי" tvg-id="teennick-il" tvg-logo="http://epg.one/img/2675.png",טיניק
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828707&extension=ts&play_token=pk0Oi6KkFw
+#EXTINF:0 group-title="איתי" tvg-id="nick-jr-il" tvg-logo="http://epg.one/img/2678.png",ניק ג'וניור
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035207&extension=ts&play_token=5Mb2x2bP8O
+#EXTINF:0 group-title="איתי" tvg-id="hop-childhood-il" tvg-logo="http://epg.one/img/2679.png",הופ!
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035262&extension=ts&play_token=a0DrSDfQsu
+#EXTINF:0 group-title="איתי" tvg-id="zoom-il" tvg-logo="http://epg.one/img/2690.png",זום
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828704&extension=ts&play_token=JZhKsp8N4o
+#EXTINF:0 group-title="איתי" tvg-id="luli-il" tvg-logo="http://epg.one/img/2695.png",לולי
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035260&extension=ts&play_token=nZlO43Hbnu
+#EXTINF:0 group-title="איתי" tvg-id="junior-il" tvg-logo="http://epg.one/img/2697.png",ג'וניור
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37712&extension=ts&play_token=4CHJ2Vu5xV
+#EXTINF:0 group-title="איתי" tvg-id="baby-il" tvg-logo="http://epg.one/img/2701.png",בייבי טיוי
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37727&extension=ts&play_token=YkYGR8MOuh
+#EXTINF:0 group-title="איתי" tvg-id="wiz-il" tvg-logo="http://epg.one/img/5087.png",ויז
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828705&extension=ts&play_token=8LoF96kgd6
+
+
+
+#EXTINF:0 group-title="איתי" tvg-id="viva-plus-il" tvg-logo="https://af-play.com/storage/images/channel_logos/00d96e97e681402555d4f5cd327d1a1b.png",ויווה +
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37685&extension=ts&play_token=VW5XqXH0rN
+#EXTINF:0 group-title="איתי" tvg-id="turkish-dramas-plus-il" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות +
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1163273&extension=ts&play_token=AbbpA0Kiwl
+#EXTINF:0 group-title="איתי" tvg-id="turkish-dramas-il-hd" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות 1
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035239&extension=ts&play_token=li01Up74nE
+#EXTINF:0 group-title="איתי" tvg-id="turkish-dramas2-il-hd" tvg-logo="http://epg.one/img/9075.png",דרמות טורקיות 2
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035240&extension=ts&play_token=wVp4uJjB57
+#EXTINF:0 group-title="איתי" tvg-id="turkish-dramas3-il-hd" tvg-logo="http://troya.tv/images/chIcons/2611.png",דרמות טורקיות 3
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1163272&extension=ts&play_token=cFyzdW9LTW
+#EXTINF:0 group-title="איתי" tvg-id="yamtihoni-il" tvg-logo="http://epg.one/img/4011.png",ים תיכוני
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035180&extension=ts&play_token=WIdySe1D47
+#EXTINF:0 group-title="איתי" tvg-id="yam-tichoni-plus-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png",ים תיכוני+
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828909&extension=ts&play_token=8ENNiJ2Qbt
+#EXTINF:0 group-title="איתי" tvg-id="viva-premium-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/915cd21fd982f50721f990f14e8faba9.png",ויווה פרימיום
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828906&extension=ts&play_token=JKOF1SwfSV
+
+
+
+
+
+#EXTINF:0 group-title="איתי" tvg-id="yes-docu-il-hd" tvg-logo="http://epg.one/img/2972.png",יס סדרות דוקו
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37667&extension=ts&play_token=WJ4TnoS8gb
+#EXTINF:0 group-title="איתי" tvg-id="yes-drama-hd-il" tvg-logo="http://epg.one/img/4007.png",יס סדרות דרמה
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37666&extension=ts&play_token=AoqFX5p6mY
+#EXTINF:0 group-title="איתי" tvg-id="yes-comedy-hd-il" tvg-logo="http://epg.one/img/4021.png",יס סדרות קומדיה
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37668&extension=ts&play_token=yBU5EtzLh5
+#EXTINF:0 group-title="איתי" tvg-id="yes-action-hd-il" tvg-logo="http://epg.one/img/3999.png",יס סדרות אקשן
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37669&extension=ts&play_token=lST061zSnI
+
+
+#EXTINF:0 group-title="איתי" tvg-id="yes-israel-il" tvg-logo="https://af-play.com/storage/images/pack_logos/90c2d68dea64bc092417cbb0b7d5c0c4.png",יס ישראלי
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1828729&extension=ts&play_token=2I0we4Dk4R
+#EXTINF:0 group-title="איתי" tvg-id="yes-movies-kids-hd-il" tvg-logo="http://epg.one/img/2967.png",יס סרטים לילדים
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37670&extension=ts&play_token=z4wpn4rn4Z
+#EXTINF:0 group-title="איתי" tvg-id="yes-movies-comedy-il" tvg-logo="http://epg.one/img/4021.png",יס סרטים קומדיה
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035214&extension=ts&play_token=1oZ2QZkC6U
+#EXTINF:0 group-title="איתי" tvg-id="yes-movies-action-hd-il" tvg-logo="http://epg.one/img/2966.png",יס סרטים אקשן
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37674&extension=ts&play_token=uwZpQw7YmK
+#EXTINF:0 group-title="איתי" tvg-id="yes-movies-drama-il-hd" tvg-logo="http://epg.one/img/2965.png",יס סרטים דרמה
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=1035213&extension=ts&play_token=VUW3n2XF9M
+
+
+
+
+
+#EXTINF:0 group-title="מאור" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37697&extension=ts&play_token=Nuf0KLUhDQ
+#EXTINF:0 group-title="מאור" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37696&extension=ts&play_token=gwU24LgMtt
+#EXTINF:0 group-title="מאור" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37695&extension=ts&play_token=2Zm5IxpVTx
+#EXTINF:0 group-title="מאור" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37694&extension=ts&play_token=axtlwXKKw8
+#EXTINF:0 group-title="מאור" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37659&extension=ts&play_token=mz1kI1QLun
+#EXTINF:0 group-title="מאור" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37691&extension=ts&play_token=4TYJ2gjpti
+#EXTINF:0 group-title="מאור" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37691&extension=ts&play_token=4TYJ2gjpti
+#EXTINF:0 group-title="מאור" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828739&extension=ts&play_token=cx1Y68dy0y
+#EXTINF:0 group-title="מאור" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37692&extension=ts&play_token=C4QFBvSjRm
+#EXTINF:0 group-title="מאור" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37690&extension=ts&play_token=mqp49cMdjK
+#EXTINF:0 group-title="מאור" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37688&extension=ts&play_token=HTueVdGW3t
+#EXTINF:0 group-title="מאור" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37702&extension=ts&play_token=44JYoC8mi3
+#EXTINF:0 group-title="מאור" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=872721&extension=ts&play_token=XzCrs7ql5S
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="מאור" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035254&extension=ts&play_token=AxeTsUVFM6
+#EXTINF:0 group-title="מאור" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035253&extension=ts&play_token=xVAgkBnFvS
+#EXTINF:0 group-title="מאור" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035252&extension=ts&play_token=fc6Aqk5lRQ
+#EXTINF:0 group-title="מאור" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035250&extension=ts&play_token=Zwy5jib0Gz
+#EXTINF:0 group-title="מאור" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37711&extension=ts&play_token=28tIG9hS4j
+#EXTINF:0 group-title="מאור" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37706&extension=ts&play_token=Fq9dMFIfSG
+#EXTINF:0 group-title="מאור" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1163274&extension=ts&play_token=eQdCY9F3zZ
+#EXTINF:0 group-title="מאור" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37709&extension=ts&play_token=wkYx2XWa3R
+
+
+#EXTINF:0 group-title="מאור" tvg-id="humor-channel-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png",ערוץ ההומור
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828901&extension=ts&play_token=fPuiAc8BNT
+#EXTINF:0 group-title="מאור" tvg-id="good-life-il" tvg-logo="http://epg.one/img/2686.png",החיים הטובים
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37716&extension=ts&play_token=etMg2d8r0N
+#EXTINF:0 group-title="מאור" tvg-id="health-il" tvg-logo="http://epg.one/img/2709.png", ערוץ בריאות
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828698&extension=ts&play_token=uvLeetVWTN
+#EXTINF:0 group-title="מאור" tvg-id="entertainment-il" tvg-logo="http://epg.one/img/2710.png",הוט בידור
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=79251&extension=ts&play_token=iuubeph6H4
+#EXTINF:0 group-title="מאור" tvg-id="" tvg-logo="http://epg.one/img/2710.png",פרטנר בידור
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828847&extension=ts&play_token=yWMNZqPDp9
+#EXTINF:0 group-title="מאור" tvg-id="hot3-hd-il" tvg-logo="http://epg.one/img/2698.png",הוט 3
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37683&extension=ts&play_token=JGphJV9NaF
+#EXTINF:0 group-title="מאור" tvg-id="hot-8-il-hd" tvg-logo="http://epg.one/img/5023.png",הוט 8
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=79252&extension=ts&play_token=tV9WcSxDmU
+#EXTINF:0 group-title="מאור" tvg-id="hot-comedy-central-il-hd" tvg-logo="http://epg.one/img/5024.png",הוט קומדיה
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=59322&extension=ts&play_token=2cR1YHJgP0
+#EXTINF:0 group-title="מאור" tvg-id="history-il" tvg-logo="http://epg.one/img/4014.png",ערוץ ההיסטוריה
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035224&extension=ts&play_token=kaLFmT959s
+#EXTINF:0 group-title="מאור" tvg-id="hot-bollywood-il" tvg-logo="http://epg.one/img/5071.png",בוליווד
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035280&extension=ts&play_token=wDlLyJw5cG
+#EXTINF:0 group-title="מאור" tvg-id="home-plus-il" tvg-logo="http://epg.one/img/2680.png",בית +
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828716&extension=ts&play_token=8SOz0Ne0v4
+#EXTINF:0 group-title="מאור" tvg-id="discovery-hd-il" tvg-logo="http://epg.one/img/325.png",דיסקברי ערוץ
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=59327&extension=ts&play_token=46yq6aGDtu
+#EXTINF:0 group-title="מאור" tvg-id="yes-natgeo-il-hd" tvg-logo="http://epg.one/img/2677.png",נשיונאל גאוגרפיק
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37705&extension=ts&play_token=OBL2gwSmtz
+#EXTINF:0 group-title="מאור" tvg-id="yes-natgeo-wild-il-hd" tvg-logo="http://epg.one/img/4311.png",נשיונאל גוגרפיק Wild
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37703&extension=ts&play_token=02BjFufQSQ
+#EXTINF:0 group-title="מאור" tvg-id="travel-channel-il" tvg-logo="http://epg.one/img/2692.png",ערוץ הטיולים
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37658&extension=ts&play_token=o0UChQX3Lp
+#EXTINF:0 group-title="מאור" tvg-id="hot-zone-hd-il" tvg-logo="http://epg.one/img/2691.png",הוט Zone
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035257&extension=ts&play_token=mH2szktADv
+#EXTINF:0 group-title="מאור" tvg-id="e-il" tvg-logo="http://epg.one/img/4005.png",E!
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37723&extension=ts&play_token=4EV5piRkYX
+#EXTINF:0 group-title="מאור" tvg-id="hot-real-il-hd" tvg-logo="https://www.hot.net.il/UploadedImages//03_2020/HOT_REAL_LOGO_510_147.png",הוט ריאלטי
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828922&extension=ts&play_token=Svr7s15TPe
+#EXTINF:0 group-title="מאור" tvg-id="hot-hbo-il" tvg-logo="http://epg.one/img/2685.png",הוט HBO
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828924&extension=ts&play_token=XxyQs0Ewp6
+#EXTINF:0 group-title="מאור" tvg-id="foody-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/9845a9f5ac2ab723860193771dc7159d.png",ערוץ האוכל
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828709&extension=ts&play_token=gCx5yyHveP
+#EXTINF:0 group-title="מאור" tvg-id="food-network-il" tvg-logo="https://centralcanada.org/static/upload/image/20241209/1733688465612785.jpg",רשת האוכל
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37719&extension=ts&play_token=RguOMwoZeG
+
+
+
+
+
+#EXTINF:0 group-title="מאור" tvg-id="hot-cinema1-il" tvg-logo="http://epg.one/img/2688.png",הוט סרטים 1
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1163265&extension=ts&play_token=gzbY2VLXVE
+#EXTINF:0 group-title="מאור" tvg-id="hot-cinema2-il" tvg-logo="http://epg.one/img/2702.png",הוט סרטים 2
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1163266&extension=ts&play_token=yM4HZsGnZK
+#EXTINF:0 group-title="מאור" tvg-id="hot-cinema3-il" tvg-logo="http://epg.one/img/2703.png",הוט סרטים 3
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1163267&extension=ts&play_token=DcbKa7ylNF
+#EXTINF:0 group-title="מאור" tvg-id="hot-cinema4-il" tvg-logo="http://epg.one/img/2687.png",הוט סרטים 4
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1163268&extension=ts&play_token=gbC8JmOEno
+#EXTINF:0 group-title="מאור" tvg-id="cinema-family-il-hd" tvg-logo="http://epg.one/img/9056.png",הוט סרטים משפחה
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828932&extension=ts&play_token=R0QsCdoWnk
+
+
+
+#EXTINF:0 group-title="מאור" tvg-id="yes-disney-il-hd" tvg-logo="http://epg.one/img/4307.png",דיסני ערוץ
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035234&extension=ts&play_token=lwkAoqP55k
+#EXTINF:0 group-title="מאור" tvg-id="disney-jr-il" tvg-logo="http://epg.one/img/2674.png",דיסני ג'וניור
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035233&extension=ts&play_token=TT7NaTANCc
+#EXTINF:0 group-title="מאור" tvg-id="teennick-il" tvg-logo="http://epg.one/img/2675.png",טיניק
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828707&extension=ts&play_token=pk0Oi6KkFw
+#EXTINF:0 group-title="מאור" tvg-id="nick-jr-il" tvg-logo="http://epg.one/img/2678.png",ניק ג'וניור
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035207&extension=ts&play_token=5Mb2x2bP8O
+#EXTINF:0 group-title="מאור" tvg-id="hop-childhood-il" tvg-logo="http://epg.one/img/2679.png",הופ!
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035262&extension=ts&play_token=a0DrSDfQsu
+#EXTINF:0 group-title="מאור" tvg-id="zoom-il" tvg-logo="http://epg.one/img/2690.png",זום
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828704&extension=ts&play_token=JZhKsp8N4o
+#EXTINF:0 group-title="מאור" tvg-id="luli-il" tvg-logo="http://epg.one/img/2695.png",לולי
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035260&extension=ts&play_token=nZlO43Hbnu
+#EXTINF:0 group-title="מאור" tvg-id="junior-il" tvg-logo="http://epg.one/img/2697.png",ג'וניור
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37712&extension=ts&play_token=4CHJ2Vu5xV
+#EXTINF:0 group-title="מאור" tvg-id="baby-il" tvg-logo="http://epg.one/img/2701.png",בייבי טיוי
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37727&extension=ts&play_token=YkYGR8MOuh
+#EXTINF:0 group-title="מאור" tvg-id="wiz-il" tvg-logo="http://epg.one/img/5087.png",ויז
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828705&extension=ts&play_token=8LoF96kgd6
+
+
+
+#EXTINF:0 group-title="מאור" tvg-id="viva-plus-il" tvg-logo="https://af-play.com/storage/images/channel_logos/00d96e97e681402555d4f5cd327d1a1b.png",ויווה +
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37685&extension=ts&play_token=VW5XqXH0rN
+#EXTINF:0 group-title="מאור" tvg-id="turkish-dramas-plus-il" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות +
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1163273&extension=ts&play_token=AbbpA0Kiwl
+#EXTINF:0 group-title="מאור" tvg-id="turkish-dramas-il-hd" tvg-logo="http://epg.one/img/4030.png",דרמות טורקיות 1
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035239&extension=ts&play_token=li01Up74nE
+#EXTINF:0 group-title="מאור" tvg-id="turkish-dramas2-il-hd" tvg-logo="http://epg.one/img/9075.png",דרמות טורקיות 2
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035240&extension=ts&play_token=wVp4uJjB57
+#EXTINF:0 group-title="מאור" tvg-id="turkish-dramas3-il-hd" tvg-logo="http://troya.tv/images/chIcons/2611.png",דרמות טורקיות 3
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1163272&extension=ts&play_token=cFyzdW9LTW
+#EXTINF:0 group-title="מאור" tvg-id="yamtihoni-il" tvg-logo="http://epg.one/img/4011.png",ים תיכוני
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035180&extension=ts&play_token=WIdySe1D47
+#EXTINF:0 group-title="מאור" tvg-id="yam-tichoni-plus-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png",ים תיכוני+
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828909&extension=ts&play_token=8ENNiJ2Qbt
+#EXTINF:0 group-title="מאור" tvg-id="viva-premium-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/915cd21fd982f50721f990f14e8faba9.png",ויווה פרימיום
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828906&extension=ts&play_token=JKOF1SwfSV
+
+
+
+
+
+#EXTINF:0 group-title="מאור" tvg-id="yes-docu-il-hd" tvg-logo="http://epg.one/img/2972.png",יס סדרות דוקו
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37667&extension=ts&play_token=WJ4TnoS8gb
+#EXTINF:0 group-title="מאור" tvg-id="yes-drama-hd-il" tvg-logo="http://epg.one/img/4007.png",יס סדרות דרמה
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37666&extension=ts&play_token=AoqFX5p6mY
+#EXTINF:0 group-title="מאור" tvg-id="yes-comedy-hd-il" tvg-logo="http://epg.one/img/4021.png",יס סדרות קומדיה
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37668&extension=ts&play_token=yBU5EtzLh5
+#EXTINF:0 group-title="מאור" tvg-id="yes-action-hd-il" tvg-logo="http://epg.one/img/3999.png",יס סדרות אקשן
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37669&extension=ts&play_token=lST061zSnI
+
+
+#EXTINF:0 group-title="מאור" tvg-id="yes-israel-il" tvg-logo="https://af-play.com/storage/images/pack_logos/90c2d68dea64bc092417cbb0b7d5c0c4.png",יס ישראלי
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1828729&extension=ts&play_token=2I0we4Dk4R
+#EXTINF:0 group-title="מאור" tvg-id="yes-movies-kids-hd-il" tvg-logo="http://epg.one/img/2967.png",יס סרטים לילדים
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37670&extension=ts&play_token=z4wpn4rn4Z
+#EXTINF:0 group-title="מאור" tvg-id="yes-movies-comedy-il" tvg-logo="http://epg.one/img/4021.png",יס סרטים קומדיה
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035214&extension=ts&play_token=1oZ2QZkC6U
+#EXTINF:0 group-title="מאור" tvg-id="yes-movies-action-hd-il" tvg-logo="http://epg.one/img/2966.png",יס סרטים אקשן
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=37674&extension=ts&play_token=uwZpQw7YmK
+#EXTINF:0 group-title="מאור" tvg-id="yes-movies-drama-il-hd" tvg-logo="http://epg.one/img/2965.png",יס סרטים דרמה
+http://tv-centreduquebec.info:80/play/live.php?mac=A0:BB:3E:1E:AE:C9&stream=1035213&extension=ts&play_token=VUW3n2XF9M
 
 
 
