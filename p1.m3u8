@@ -793,39 +793,39 @@ http://7fcc71f2.otttv.pw/iptv/26QTVTG6DBNGK5/12272/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+#EXTINF:0 group-title="מקור-1" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12249/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+#EXTINF:0 group-title="מקור-1" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12250/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+#EXTINF:0 group-title="מקור-1" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12251/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-1" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12252/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-1" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2389/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-1" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2341/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-1" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2391/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
+#EXTINF:0 group-title="מקור-1" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/16019/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
+#EXTINF:0 group-title="מקור-1" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12254/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-1" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12255/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-1" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2362/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-1" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12232/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-1" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12278/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+#EXTINF:0 group-title="מקור-1" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2340/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-1" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12231/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-1" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2373/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
+#EXTINF:0 group-title="מקור-1" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/7203/index.m3u8
 
 
@@ -835,23 +835,23 @@ http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/7203/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-1" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
+#EXTINF:0 group-title="מקור-1" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2332/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
+#EXTINF:0 group-title="מקור-1" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2349/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
+#EXTINF:0 group-title="מקור-1" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2330/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-1" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12239/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-1" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12242/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
+#EXTINF:0 group-title="מקור-1" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2380/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
+#EXTINF:0 group-title="מקור-1" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12237/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
+#EXTINF:0 group-title="מקור-1" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/2386/index.m3u8
-#EXTINF:0 group-title="-מקור-1" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
+#EXTINF:0 group-title="מקור-1" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
 http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12269/index.m3u8
 
 
@@ -1037,39 +1037,39 @@ http://7fcc71f2.otttv.pw/iptv/FTXT5WEPVSHHWZ/12272/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+#EXTINF:0 group-title="מקור-2" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12249/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+#EXTINF:0 group-title="מקור-2" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12250/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+#EXTINF:0 group-title="מקור-2" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12251/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-2" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12252/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-2" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2389/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-2" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2341/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-2" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2391/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
+#EXTINF:0 group-title="מקור-2" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/16019/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
+#EXTINF:0 group-title="מקור-2" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12254/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-2" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12255/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-2" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2362/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-2" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12232/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-2" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12278/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+#EXTINF:0 group-title="מקור-2" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2340/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-2" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12231/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-2" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2373/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
+#EXTINF:0 group-title="מקור-2" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/7203/index.m3u8
 
 
@@ -1079,23 +1079,23 @@ http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/7203/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-2" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
+#EXTINF:0 group-title="מקור-2" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2332/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
+#EXTINF:0 group-title="מקור-2" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2349/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
+#EXTINF:0 group-title="מקור-2" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2330/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-2" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12239/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-2" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12242/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
+#EXTINF:0 group-title="מקור-2" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2380/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
+#EXTINF:0 group-title="מקור-2" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12237/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
+#EXTINF:0 group-title="מקור-2" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2386/index.m3u8
-#EXTINF:0 group-title="-מקור-2" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
+#EXTINF:0 group-title="מקור-2" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12269/index.m3u8
 
 
@@ -1276,39 +1276,39 @@ http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12272/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+#EXTINF:0 group-title="מקור-3" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12249/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+#EXTINF:0 group-title="מקור-3" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12250/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+#EXTINF:0 group-title="מקור-3" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12251/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-3" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12252/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-3" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2389/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-3" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2341/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-3" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2391/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
+#EXTINF:0 group-title="מקור-3" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/16019/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
+#EXTINF:0 group-title="מקור-3" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12254/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-3" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12255/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-3" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2362/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-3" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12232/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-3" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12278/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+#EXTINF:0 group-title="מקור-3" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2340/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-3" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12231/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-3" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2373/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
+#EXTINF:0 group-title="מקור-3" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/7203/index.m3u8
 
 
@@ -1318,23 +1318,23 @@ http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/7203/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-3" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
+#EXTINF:0 group-title="מקור-3" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2332/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
+#EXTINF:0 group-title="מקור-3" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2349/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
+#EXTINF:0 group-title="מקור-3" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2330/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-3" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12239/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-3" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12242/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
+#EXTINF:0 group-title="מקור-3" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2380/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
+#EXTINF:0 group-title="מקור-3" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12237/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
+#EXTINF:0 group-title="מקור-3" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/2386/index.m3u8
-#EXTINF:0 group-title="-מקור-3" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
+#EXTINF:0 group-title="מקור-3" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
 http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12269/index.m3u8
 
 
@@ -1516,39 +1516,39 @@ http://7fcc71f2.otttv.pw/iptv/YP6DFSNYRW7PPS3YZKLM69FL/12272/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+#EXTINF:0 group-title="מקור-4" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12249/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+#EXTINF:0 group-title="מקור-4" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12250/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+#EXTINF:0 group-title="מקור-4" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12251/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-4" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12252/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-4" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2389/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-4" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2341/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-4" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2391/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
+#EXTINF:0 group-title="מקור-4" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/16019/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
+#EXTINF:0 group-title="מקור-4" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12254/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-4" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12255/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-4" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2362/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-4" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12232/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-4" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12278/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+#EXTINF:0 group-title="מקור-4" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2340/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-4" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12231/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-4" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2373/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
+#EXTINF:0 group-title="מקור-4" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/7203/index.m3u8
 
 
@@ -1558,23 +1558,23 @@ http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/7203/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-4" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
+#EXTINF:0 group-title="מקור-4" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2332/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
+#EXTINF:0 group-title="מקור-4" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2349/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
+#EXTINF:0 group-title="מקור-4" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2330/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-4" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12239/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-4" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12242/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
+#EXTINF:0 group-title="מקור-4" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2380/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
+#EXTINF:0 group-title="מקור-4" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12237/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
+#EXTINF:0 group-title="מקור-4" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/2386/index.m3u8
-#EXTINF:0 group-title="-מקור-4" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
+#EXTINF:0 group-title="מקור-4" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
 http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12269/index.m3u8
 
 
@@ -1754,39 +1754,39 @@ http://7fcc71f2.otttv.pw/iptv/UFERDUQS58TBD3/12272/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
+#EXTINF:0 group-title="מקור-5" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",ספורט 1
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12249/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
+#EXTINF:0 group-title="מקור-5" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",ספורט 2
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12250/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
+#EXTINF:0 group-title="מקור-5" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png",ספורט 3
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12251/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-5" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12252/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
+#EXTINF:0 group-title="מקור-5" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png",ספורט 4
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2389/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-5" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2341/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
+#EXTINF:0 group-title="מקור-5" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png",5ספורט
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2391/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
+#EXTINF:0 group-title="מקור-5" tvg-id="sport5-il-4k" tvg-logo="https://www.stingtv.co.il/wp-content/uploads/2018/11/60_5_sport_4k_118x104.png",5 ספורט 4K
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/16019/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
+#EXTINF:0 group-title="מקור-5" tvg-id="sport5-gold-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט גולד
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12254/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-5" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12255/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
+#EXTINF:0 group-title="מקור-5" tvg-id="sport5-live-il" tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png",5ספורט לייב
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2362/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-5" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12232/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
+#EXTINF:0 group-title="מקור-5" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png",5ספורט סטארס
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12278/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
+#EXTINF:0 group-title="מקור-5" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png",One
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2340/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-5" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12231/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
+#EXTINF:0 group-title="מקור-5" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png",One 2
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2373/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
+#EXTINF:0 group-title="מקור-5" tvg-id="eurosport2-il" tvg-logo="https://www.hot.net.il/UploadedImages//03_2017/eurosport2_510X150.png",יורוספורט 2
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/7203/index.m3u8
 
 
@@ -1796,23 +1796,23 @@ http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/7203/index.m3u8
 
 
 
-#EXTINF:0 group-title="-מקור-5" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
+#EXTINF:0 group-title="מקור-5" tvg-id="11-kanal-il" tvg-logo="http://epg.one/img/2673.png",כאן 11
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2332/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
+#EXTINF:0 group-title="מקור-5" tvg-id="12-kanal-il" tvg-logo="http://epg.one/img/2670.png",קשת 12
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2349/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
+#EXTINF:0 group-title="מקור-5" tvg-id="13-kanal-il" tvg-logo="http://epg.one/img/2671.png",רשת 13
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2330/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-5" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12239/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
+#EXTINF:0 group-title="מקור-5" tvg-id="14-kanal-il" tvg-logo="http://epg.one/img/4296.png",ערוץ 14
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12242/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
+#EXTINF:0 group-title="מקור-5" tvg-id="kan23-il" tvg-logo="http://epg.one/img/2711.png",כאן חינוכית
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2380/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
+#EXTINF:0 group-title="מקור-5" tvg-id="channel24-il-hd" tvg-logo="http://epg.one/img/9049.png",ערוץ 24 מוזיקה
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12237/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
+#EXTINF:0 group-title="מקור-5" tvg-id="i24-il" tvg-logo="http://epg.one/img/2717.png",i24
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/2386/index.m3u8
-#EXTINF:0 group-title="-מקור-5" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
+#EXTINF:0 group-title="מקור-5" tvg-id="" tvg-logo="http://epg.one/img/4306.png",כנסת ערוץ
 http://7fcc71f2.otttv.pw/iptv/22R8F2UTVKMAYR/12269/index.m3u8
 
 
