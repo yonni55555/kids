@@ -2650,6 +2650,424 @@ http://7fcc71f2.otttv.pw/iptv/3K5Z3VE8M7N89U/12272/index.m3u8
 
 
 
+
+#EXTM3U " url-tvg="http://epg.team/tvteam.3.1.xml"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 1 FHD" tvg-logo="http://troya.tv/images/chIcons/1128.png",[COLOR aqua]ספורט 1[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37697&extension=ts&play_token=XkszXw00EH
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 2 FHD" tvg-logo="http://troya.tv/images/chIcons/1129.png",[COLOR aqua]ספורט 2[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37696&extension=ts&play_token=P1HyvlYc04
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 3 FHD" tvg-logo="http://troya.tv/images/chIcons/1130.png",[COLOR aqua]ספורט 3[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37695&extension=ts&play_token=WBRjzBEDHx
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 4 FHD" tvg-logo="http://troya.tv/images/chIcons/1131.png",[COLOR aqua]ספורט 4[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37694&extension=ts&play_token=T7942Wsu3G
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 5" tvg-logo="http://troya.tv/images/chIcons/1132.png",[COLOR aqua]ספורט 5[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37691&extension=ts&play_token=tTxoi9Jzho
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 5 4K" tvg-logo="http://troya.tv/images/chIcons/2211.png",[COLOR aqua]ספורט 5 4K[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828739&extension=ts&play_token=aVgP7zRTfQ
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 5 Livе" tvg-logo="http://troya.tv/images/chIcons/1155.png",[COLOR aqua]ספורט 5 Livе[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37690&extension=ts&play_token=zuqeAdyJRg
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 5 Plus" tvg-logo="http://troya.tv/images/chIcons/1134.png",[COLOR aqua]ספורט 5 Plus[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37689&extension=ts&play_token=Tz0SLK4bI1
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 5 Gold" tvg-logo="http://troya.tv/images/chIcons/1135.png",[COLOR aqua]ספורט 5 Gold[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37692&extension=ts&play_token=LwXSHeBJK7
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Sport 5 Stars" tvg-logo="http://troya.tv/images/chIcons/1156.png",[COLOR aqua]ספורט 5 Stars[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37688&extension=ts&play_token=2lgcXIoQq1
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: ONE 1 HD" tvg-logo="http://troya.tv/images/chIcons/1186.png",[COLOR aqua]ONE 1[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035205&extension=ts&play_token=KGxn4iqKWU
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: ONE 2 HD" tvg-logo="http://troya.tv/images/chIcons/1145.png",[COLOR aqua]ONE 2[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37701&extension=ts&play_token=WmtFdESEZd
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: ONE Doco" tvg-logo="http://troya.tv/images/chIcons/1195.png",[COLOR aqua]ONE דוקו[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1855507&extension=ts&play_token=PVKBCnTfqu
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Eurosport 1 HD" tvg-logo="http://troya.tv/images/chIcons/2496.png",[COLOR aqua]יורוספורט 1[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1163260&extension=ts&play_token=OW8nl9w0Yg
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Eurosport 2 HD" tvg-logo="http://troya.tv/images/chIcons/2497.png",[COLOR aqua]יורוספורט 2[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1163261&extension=ts&play_token=LB9jGYWTIy
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Edge Sport HD" tvg-logo="http://troya.tv/images/chIcons/2629.png",[COLOR aqua]אדג ' ספורט[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1855508&extension=ts&play_token=CzwasqyCJG
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Ego Total" tvg-logo="http://troya.tv/images/chIcons/2498.png",[COLOR aqua]אגו טוטאל[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37722&extension=ts&play_token=YPFOVvosr2
+
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Channel 11 HD" tvg-logo="http://troya.tv/images/chIcons/428.png",[COLOR burlywood]ערוץ 11[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59337&extension=ts&play_token=ODHDn2YvOQ
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Channel 12 HD" tvg-logo="http://troya.tv/images/chIcons/429.png",[COLOR burlywood]ערוץ 12[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59336&extension=ts&play_token=H2tiKdAqUW
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Channel 13 HD" tvg-logo="http://troya.tv/images/chIcons/430.png",[COLOR burlywood]ערוץ 13[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59329&extension=ts&play_token=CX4sjUNS6x
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Channel 14 HD" tvg-logo="http://troya.tv/images/chIcons/1119.png",[COLOR burlywood]ערוץ 14[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035250&extension=ts&play_token=MaiodyuJ2S
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Channel 24" tvg-logo="http://troya.tv/images/chIcons/1142.png",[COLOR burlywood]ערוץ 24[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1163256&extension=ts&play_token=rck28nLBj6
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",[COLOR burlywood]i24 חדשות[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1163274&extension=ts&play_token=VBWBJNCURE
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://troya.tv/images/chIcons/1171.png",[COLOR burlywood]חינוכית 23[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1163255&extension=ts&play_token=iCy8MnRDf1
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Makan 33 HD" tvg-logo="http://troya.tv/images/chIcons/1181.png",[COLOR burlywood]מכאן 33[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035255&extension=ts&play_token=N4tBElJtmV
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Music Il" tvg-logo="https://af-play.com/storage/images/channel_logos/e74ab1b6d7349cc3e01d0adce26465c0.png",מוסיקה ישראלית
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035210&extension=ts&play_token=G4p6UVnYLH
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Hidabrout" tvg-logo="https://storage.hidabroot.org/videos/61465_tumb_730X500.jpg",הידברות
+https://htv-live.cybercdn.live/HidabrootIL/Live97/HidabrootIL/Live97_720p/chunks.m3u8
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Humor Channel" tvg-logo="http://troya.tv/images/chIcons/1178.png",[COLOR green]ערוץ ההומור[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828901&extension=ts&play_token=U16utW08O1
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Tv Comedy HD" tvg-logo="http://troya.tv/images/chIcons/2540.png",[COLOR green]פריטיוי סדרות קומדיה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828789&extension=ts&play_token=babwZAq29p
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Reality HD" tvg-logo="http://troya.tv/images/chIcons/1182.png",[COLOR green]ערוץ הראלטי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035243&extension=ts&play_token=rZr23hc8jX
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Tv Doco HD" tvg-logo="http://troya.tv/images/chIcons/2543.png",[COLOR green]פריטיוי סדרות דוקו[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828779&extension=ts&play_token=qNvPNWs7bx
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Tv Drama HD" tvg-logo="http://troya.tv/images/chIcons/2539.png",[COLOR green]פריטיוי סדרות דרמה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828788&extension=ts&play_token=TL1FsItArA
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Series Global HD" tvg-logo="http://troya.tv/images/chIcons/2533.png",[COLOR green]פריטיוי סדרות חול[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828791&extension=ts&play_token=FRv7locHit
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Tv Hatuna HD" tvg-logo="http://troya.tv/images/chIcons/1183.png",[COLOR green] חתונמי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828784&extension=ts&play_token=rhTZahOfKW
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Tv Karaoke HD" tvg-logo="http://troya.tv/images/chIcons/2086.png",[COLOR green] קריוקי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828790&extension=ts&play_token=LKOd4Qhgfh
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Tv Kohav Haba HD" tvg-logo="http://troya.tv/images/chIcons/2087.png",[COLOR green] הכוכב הבא[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828778&extension=ts&play_token=07cf3dwdxC
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Savri HD" tvg-logo="http://troya.tv/images/chIcons/2545.png",[COLOR green]סברי מרנן[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828787&extension=ts&play_token=cwPQtmFs8y
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Erez Nehederet HD" tvg-logo="http://troya.tv/images/chIcons/2544.png",[COLOR green]ארץ נהדרת[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828783&extension=ts&play_token=VK6Oxfs6dm
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Tv Lifestyle HD" tvg-logo="http://troya.tv/images/chIcons/2541.png",[COLOR green] פריטיוי לייף סטייל[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828786&extension=ts&play_token=Ooqe6nFlKN
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Tv Cooking HD" tvg-logo="http://troya.tv/images/chIcons/2542.png",[COLOR green]פריטיוי אוכל[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828785&extension=ts&play_token=b2NbhVgw5N
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Zone HD" tvg-logo="http://troya.tv/images/chIcons/1139.png",[COLOR green]HOT סדרות אקשן[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37676&extension=ts&play_token=b7MvaZN2sK
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Comedy Central HD" tvg-logo="http://troya.tv/images/chIcons/1174.png",[COLOR green]HOT קומדי סנטרל[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59322&extension=ts&play_token=jv23DiZVRJ
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT 3 HD" tvg-logo="http://troya.tv/images/chIcons/1147.png",[COLOR green]HOT 3[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035276&extension=ts&play_token=B4tI5aNqZI
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Bidur HD" tvg-logo="http://troya.tv/images/chIcons/1163.png",[COLOR green]HOT בידור ישראלי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035267&extension=ts&play_token=HKd5zferN5
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Hbo HD" tvg-logo="http://troya.tv/images/chIcons/1175.png",[COLOR green]HOT סדרות ארה'ב[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828924&extension=ts&play_token=f0AlAN9GMU
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Cellcom Hbo HD" tvg-logo="http://troya.tv/images/chIcons/2639.png",[COLOR green]סלקום סדרות ארה'ב[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828892&extension=ts&play_token=Z4KPSPXDqK
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Cellcom Doco HD" tvg-logo="http://troya.tv/images/chIcons/2640.png",[COLOR green]סלקום דוקו[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828876&extension=ts&play_token=SJjlcHmYNm
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Partner Sdarot HD" tvg-logo="http://troya.tv/images/chIcons/2610.png",[COLOR green]פרטנר סדרות[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828852&extension=ts&play_token=7eOb3UGSAk
+
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Movies Action HD" tvg-logo="http://troya.tv/images/chIcons/2537.png",[COLOR gold]פריטיוי-סרטים אקשן[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828798&extension=ts&play_token=T1XylzdFJT
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Movies Romantic HD" tvg-logo="http://troya.tv/images/chIcons/2536.png",[COLOR gold]פריטיוי-סרטים רומנטי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828794&extension=ts&play_token=cndwgtRSIA
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Movies Comedy HD" tvg-logo="http://troya.tv/images/chIcons/1193.png",[COLOR gold]פריטיוי-סרטים קומדיה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828797&extension=ts&play_token=9qZsuPu4an
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Movies Drama HD" tvg-logo="http://troya.tv/images/chIcons/2534.png",[COLOR gold]פריטיוי-סרטים דרמה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828796&extension=ts&play_token=Tc50k9mmam
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Movies Horror HD" tvg-logo="http://troya.tv/images/chIcons/2535.png",[COLOR gold]פריטיוי-סרטים אימה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828795&extension=ts&play_token=z3v4cDOiTw
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Israeli Movies HD" tvg-logo="http://troya.tv/images/chIcons/2538.png",[COLOR gold]פריטיוי-סרטים ישראלים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828792&extension=ts&play_token=0ZkaP6XXlB
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Movies Family HD" tvg-logo="http://troya.tv/images/chIcons/2617.png",[COLOR gold]פריטיוי-סרטים משפחה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828793&extension=ts&play_token=plDS0gQoTa
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Tv Feel Good" tvg-logo="http://troya.tv/images/chIcons/3036.png",[COLOR gold]פריטיוי-סרטים  להרגיש טוב[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1855509&extension=ts&play_token=SrueJ6z1JU
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: YES World Action HD" tvg-logo="http://troya.tv/images/chIcons/3174.png",[COLOR red]ערוץ האקשן העולמי 1[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828738&extension=ts&play_token=DJz0XcDNai
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: YES World Action 2 HD" tvg-logo="http://troya.tv/images/chIcons/3175.png",[COLOR red]ערוץ האקשן העולמי 2[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828737&extension=ts&play_token=NbWg4u3tIS
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Cinema 1 HD" tvg-logo="http://troya.tv/images/chIcons/1161.png",[COLOR red]HOT סרטים 1[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828936&extension=ts&play_token=8D11P2YnIs
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Cinema 2 HD" tvg-logo="http://troya.tv/images/chIcons/1172.png",[COLOR red]HOT סרטים 2[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828935&extension=ts&play_token=h0NPfUq1Ai
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Cinema 3 HD" tvg-logo="http://troya.tv/images/chIcons/1140.png",[COLOR red]HOT סרטים 3[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828934&extension=ts&play_token=FSnZd38Ukb
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Cinema 4 HD" tvg-logo="http://troya.tv/images/chIcons/1192.png",[COLOR red]HOT סרטים 4[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828933&extension=ts&play_token=3pKjnVWbaf
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Cinema Family HD" tvg-logo="http://troya.tv/images/chIcons/1153.png",[COLOR red]HOT סרטים משפחה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828932&extension=ts&play_token=uauyfQaYoA
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Cinema Israeli HD" tvg-logo="http://troya.tv/images/chIcons/1133.png",[COLOR red]HOT סרטים ישראלים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828928&extension=ts&play_token=9wAinYu7PF
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: YES Israeli Cinema HD" tvg-logo="http://troya.tv/images/chIcons/2030.png",[COLOR red]YES סרטים ישראלים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59313&extension=ts&play_token=kemK7ozZIr
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: YES Movies Kids HD" tvg-logo="http://troya.tv/images/chIcons/1151.png",[COLOR red]YES סרטים לילדים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37670&extension=ts&play_token=w1Ub0pTOoa
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Cellcom Sratim HD" tvg-logo="http://troya.tv/images/chIcons/2495.png",[COLOR red]סלקום סרטים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828896&extension=ts&play_token=VF8OfQbuw0
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Partner Sratim HD" tvg-logo="http://troya.tv/images/chIcons/2609.png",[COLOR red]פרטנר סרטים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828853&extension=ts&play_token=w66K0K3CCN
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Cellcom Israel" tvg-logo="http://troya.tv/images/chIcons/2499.png",[COLOR red]סלקום ישראלי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828895&extension=ts&play_token=MBqJByPM8V
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Bollywood HD" tvg-logo="http://troya.tv/images/chIcons/2616.png",[COLOR red]סרטים הודים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=79241&extension=ts&play_token=acNljOutNX
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Spanish Drama Channel 1 HD" tvg-logo="http://troya.tv/images/chIcons/2641.png",[COLOR pink]ערוץ הדרמות ספרדיות[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828916&extension=ts&play_token=QUVK5rJHXj
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Spanish Drama Channel 2 HD" tvg-logo="http://troya.tv/images/chIcons/3133.png",[COLOR pink]ערוץ הדרמות ספרדיות 2[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828915&extension=ts&play_token=KzedQd4lJS
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Turkish Drama Plus" tvg-logo="http://troya.tv/images/chIcons/2028.png",[COLOR pink]ערוץ הדרמות טורקיות +[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828914&extension=ts&play_token=6cvgkiDuP6
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Turkish Drama 2" tvg-logo="http://troya.tv/images/chIcons/2029.png",[COLOR pink]ערוץ הדרמות טורקיות 2[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828913&extension=ts&play_token=3Zta1dplpl
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Turkish Drama 3" tvg-logo="http://troya.tv/images/chIcons/2611.png",[COLOR pink]ערוץ הדרמות טורקיות 3[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828912&extension=ts&play_token=KqkpEIXa4r
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Viva" tvg-logo="http://troya.tv/images/chIcons/1189.png",[COLOR pink]ויוה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37686&extension=ts&play_token=sIdAxpnsQk
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Viva+" tvg-logo="http://troya.tv/images/chIcons/1190.png",[COLOR pink]ויווה+[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37685&extension=ts&play_token=DZTC9gRK83
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Viva Vintage" tvg-logo="http://troya.tv/images/chIcons/1146.png",[COLOR pink]ויווה וינטג'[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828905&extension=ts&play_token=awWVCz1TdA
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Viva Premium HD" tvg-logo="http://troya.tv/images/chIcons/1188.png",[COLOR pink]ויוה פרימיום[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828906&extension=ts&play_token=9R4RLWvTdH
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Vamos" tvg-logo="http://troya.tv/images/chIcons/2641.png",[COLOR pink]ואמוס[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828920&extension=ts&play_token=KGM0OSxozH
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Yam Tihoni HD" tvg-logo="http://troya.tv/images/chIcons/1191.png",[COLOR pink]ים תיכוני[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828908&extension=ts&play_token=Ztw1joaSRw
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Yam Tihoni 2" tvg-logo="http://troya.tv/images/chIcons/1164.png",[COLOR pink]ים תיכוני 2[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828907&extension=ts&play_token=nZVkWYSq1o
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Yam Tihoni Plus" tvg-logo="http://troya.tv/images/chIcons/1152.png",[COLOR pink]ים תיכוני +[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828909&extension=ts&play_token=6owXfBRv4z
+
+
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Jim Jam" tvg-logo="http://troya.tv/images/chIcons/2645.png",[COLOR gold]ג'ים ג'אם[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1163276&extension=ts&play_token=h87mAGkF1c
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Nick HD" tvg-logo="http://troya.tv/images/chIcons/1185.png",[COLOR gold]ניק[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59316&extension=ts&play_token=snXLTagtvI
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Nick Jr HD" tvg-logo="http://troya.tv/images/chIcons/2637.png",[COLOR gold]ניק ג'וניור[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59317&extension=ts&play_token=4Ozc9ZOD9i
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Junior" tvg-logo="http://troya.tv/images/chIcons/1184.png",[COLOR gold]ג'וניור[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035233&extension=ts&play_token=yy8qAe25u3
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: TeenNick" tvg-logo="http://troya.tv/images/chIcons/2500.png",[COLOR gold]טיניק[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828707&extension=ts&play_token=AMNSDbauFE
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: YoYo" tvg-logo="http://troya.tv/images/chIcons/2625.png",[COLOR gold]יויו[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828769&extension=ts&play_token=5MnOonyXCT
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Yalduti" tvg-logo="http://troya.tv/images/chIcons/2646.png",[COLOR gold]ילדותי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828771&extension=ts&play_token=ZYcp5fq4ec
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Luli" tvg-logo="http://troya.tv/images/chIcons/1170.png",[COLOR gold]לולי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59320&extension=ts&play_token=SHHKZYEJe8
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Hop" tvg-logo="http://troya.tv/images/chIcons/1154.png",[COLOR gold]הופ[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59321&extension=ts&play_token=OUXJDckIHg
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Wiz" tvg-logo="http://troya.tv/images/chIcons/2031.png",[COLOR gold]וויז[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828705&extension=ts&play_token=pa4XXuujOP
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Zoom" tvg-logo="http://troya.tv/images/chIcons/2643.png",[COLOR gold]זום[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828704&extension=ts&play_token=F7VDaJoiHr
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Partner Yladim HD" tvg-logo="http://troya.tv/images/chIcons/2608.png",[COLOR gold]פרטנר ילדים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828851&extension=ts&play_token=cjT3C2cEcM
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Zoom Toon HD" tvg-logo="http://troya.tv/images/chIcons/2644.png",[COLOR gold] זום טון[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035179&extension=ts&play_token=cwodU7MXJu
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Disney Jr." tvg-logo="http://troya.tv/images/chIcons/1162.png",[COLOR gold]דיסני ג'וניור[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828703&extension=ts&play_token=pP4lfNC9GQ
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Disney Channel HD" tvg-logo="http://troya.tv/images/chIcons/1121.png",[COLOR gold]דיסני[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035234&extension=ts&play_token=4ykBKeVml3
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Cellcom Yeladim HD" tvg-logo="http://troya.tv/images/chIcons/1194.png",[COLOR gold]סלקום ילדים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828893&extension=ts&play_token=zteHQ4RV5K
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Fomo" tvg-logo="http://troya.tv/images/chIcons/2627.png",[COLOR gold]פומו[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828773&extension=ts&play_token=dk2eZhVo5D
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Logi" tvg-logo="http://troya.tv/images/chIcons/2626.png",[COLOR gold]לוגי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828775&extension=ts&play_token=QX11Qabdkk
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Baby TV" tvg-logo="http://troya.tv/images/chIcons/1118.png",[COLOR gold]בייבי טיוי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37727&extension=ts&play_token=lfX1QF2kKH
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Hop Israeli Childhood" tvg-logo="http://troya.tv/images/chIcons/2138.png",[COLOR gold]הופ ישראלי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59324&extension=ts&play_token=0EbpMTCdVu
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Hop Pele HD" tvg-logo="http://troya.tv/images/chIcons/2003.png",[COLOR gold]הופ פלא[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828776&extension=ts&play_token=9uHXrukocE
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Good Life TV HD" tvg-logo="http://troya.tv/images/chIcons/1141.png",[COLOR green]ערוץ החיים הטובים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37716&extension=ts&play_token=DZRlMymTfy
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: History HD" tvg-logo="http://troya.tv/images/chIcons/1143.png",[COLOR green]ערוץ ההיסטוריה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59325&extension=ts&play_token=650HjqGzV2
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Discovery Channel HD" tvg-logo="http://troya.tv/images/chIcons/1120.png",[COLOR green]דיסקברי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828728&extension=ts&play_token=1iOf6ISJdY
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Home Plus" tvg-logo="http://troya.tv/images/chIcons/2631.png",[COLOR green]בית+[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828716&extension=ts&play_token=LwzCM7A5PS
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Travel Channel HD" tvg-logo="http://troya.tv/images/chIcons/1136.png",[COLOR green]ערוץ הטיולים[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828699&extension=ts&play_token=6wSejTooER
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Senior HD" tvg-logo="http://troya.tv/images/chIcons/2613.png",[COLOR green]HOT סניור[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828927&extension=ts&play_token=Ug4osNxOfo
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Health Channel HD" tvg-logo="http://troya.tv/images/chIcons/1176.png",[COLOR green]ערוץ הבריאות[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59326&extension=ts&play_token=6UVQkErCzX
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Real HD" tvg-logo="http://troya.tv/images/chIcons/1173.png",[COLOR green]HOT ריאלטי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828922&extension=ts&play_token=4P3zb3q4VU
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Nat Geo HD" tvg-logo="http://troya.tv/images/chIcons/1126.png",[COLOR green]ערוץ נשיונל ג'יאוגרפיק[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37705&extension=ts&play_token=VwjHTDps2v
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Nat Geo Wild" tvg-logo="http://troya.tv/images/chIcons/1138.png",[COLOR green]נשיונל ג'יאוגרפיק WILD[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37703&extension=ts&play_token=HCaAXpp2YO
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT 8 HD" tvg-logo="http://troya.tv/images/chIcons/1144.png",[COLOR green]HOT 8[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828926&extension=ts&play_token=VT2KOfG6aX
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: Fashion" tvg-logo="http://troya.tv/images/chIcons/2642.png",[COLOR green]ערוץ האופנה[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=79234&extension=ts&play_token=0aohNPTxo8
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: CBS Reality" tvg-logo="http://troya.tv/images/chIcons/2628.png",[COLOR green]CBS ריאלטי[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59330&extension=ts&play_token=Aeec5bXBfe
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: MTV HD" tvg-logo="http://troya.tv/images/chIcons/2623.png",[COLOR green]MTV[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828692&extension=ts&play_token=xw4CwB3DZz
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: E!" tvg-logo="http://troya.tv/images/chIcons/1122.png",[COLOR green]E![/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828715&extension=ts&play_token=JZUAkaAOzM
+
+#EXTINF:0 group-title="מקור-11" tvg-name="IL: TLC HD" tvg-logo="http://troya.tv/images/chIcons/2632.png",[COLOR green]TLC[/COLOR]
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828713&extension=ts&play_token=3B7ePlvBnt
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title="[COLOR aqua]בדיקת מקורות[/COLOR]" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",[COLOR aqua]ליאם[/COLOR]
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37697&extension=ts&play_token=Nuf0KLUhDQ
 
@@ -2698,8 +3116,8 @@ http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:e7:21:b7&stream=26074
 #EXTINF:0 group-title="[COLOR aqua]בדיקת מקורות[/COLOR]" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",[COLOR aqua]מקור-10[/COLOR]
 http://7fcc71f2.otttv.pw/iptv/3K5Z3VE8M7N89U/12249/index.m3u8
 
-
-
+#EXTINF:0 group-title="[COLOR aqua]בדיקת מקורות[/COLOR]" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png",[COLOR aqua]ליאם[/COLOR]
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37697&extension=ts&play_token=Nuf0KLUhDQ
 
 
 
