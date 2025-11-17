@@ -67,7 +67,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1035250&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1163256&extension=ts&play_token=rck28nLBj6
 
 #EXTINF:0 group-title="מקור-11" tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",[COLOR burlywood]i24 חדשות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1163274&extension=ts&play_token=VBWBJNCURE
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 
 #EXTINF:0 group-title="מקור-11" tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://troya.tv/images/chIcons/1171.png",[COLOR burlywood]חינוכית 23[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1163255&extension=ts&play_token=iCy8MnRDf1
@@ -140,9 +140,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828892&e
 
 #EXTINF:0 group-title="מקור-11" tvg-name="IL: Cellcom Doco HD" tvg-logo="http://troya.tv/images/chIcons/2640.png",[COLOR green]סלקום דוקו[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828876&extension=ts&play_token=SJjlcHmYNm
-
-#EXTINF:0 group-title="מקור-11" tvg-name="IL: Partner Sdarot HD" tvg-logo="http://troya.tv/images/chIcons/2610.png",[COLOR green]פרטנר סדרות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828852&extension=ts&play_token=7eOb3UGSAk
 
 #EXTINF:0 group-title="מקור-11" tvg-name="IL: Free Movies Action HD" tvg-logo="http://troya.tv/images/chIcons/2537.png",[COLOR gold]פריטיוי-סרטים אקשן[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828798&extension=ts&play_token=T1XylzdFJT
@@ -334,7 +331,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828927&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=59326&extension=ts&play_token=6UVQkErCzX
 
 #EXTINF:0 group-title="מקור-11" tvg-name="IL: HOT Real HD" tvg-logo="http://troya.tv/images/chIcons/1173.png",[COLOR green]HOT ריאלטי[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828922&extension=ts&play_token=4P3zb3q4VU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=1828718&extension=ts&play_token=D37DKkYnq8
 
 #EXTINF:0 group-title="מקור-11" tvg-name="IL: Nat Geo HD" tvg-logo="http://troya.tv/images/chIcons/1126.png",[COLOR green]ערוץ נשיונל ג'יאוגרפיק[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:c2:7b:48&stream=37705&extension=ts&play_token=VwjHTDps2v
@@ -406,7 +403,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1035250&e
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: Channel 24" tvg-logo="http://troya.tv/images/chIcons/1142.png",[COLOR burlywood]ערוץ 24[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1163256&extension=ts&play_token=rck28nLBj6
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",[COLOR burlywood]i24 חדשות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1163274&extension=ts&play_token=VBWBJNCURE
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://troya.tv/images/chIcons/1171.png",[COLOR burlywood]חינוכית 23[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1163255&extension=ts&play_token=iCy8MnRDf1
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: Makan 33 HD" tvg-logo="http://troya.tv/images/chIcons/1181.png",[COLOR burlywood]מכאן 33[/COLOR]
@@ -455,8 +452,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1828924&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1828892&extension=ts&play_token=Z4KPSPXDqK
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: Cellcom Doco HD" tvg-logo="http://troya.tv/images/chIcons/2640.png",[COLOR green]סלקום דוקו[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1828876&extension=ts&play_token=SJjlcHmYNm
-#EXTINF:0 group-title="מקור-10" tvg-name="IL: Partner Sdarot HD" tvg-logo="http://troya.tv/images/chIcons/2610.png",[COLOR green]פרטנר סדרות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1828852&extension=ts&play_token=7eOb3UGSAk
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: Free Movies Action HD" tvg-logo="http://troya.tv/images/chIcons/2537.png",[COLOR gold]פריטיוי-סרטים אקשן[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1828798&extension=ts&play_token=T1XylzdFJT
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: Free Movies Romantic HD" tvg-logo="http://troya.tv/images/chIcons/2536.png",[COLOR gold]פריטיוי-סרטים רומנטי[/COLOR]
@@ -584,7 +579,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1828927&e
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: Health Channel HD" tvg-logo="http://troya.tv/images/chIcons/1176.png",[COLOR green]ערוץ הבריאות[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=59326&extension=ts&play_token=6UVQkErCzX
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: HOT Real HD" tvg-logo="http://troya.tv/images/chIcons/1173.png",[COLOR green]HOT ריאלטי[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1828922&extension=ts&play_token=4P3zb3q4VU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=1828718&extension=ts&play_token=D37DKkYnq8
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: Nat Geo HD" tvg-logo="http://troya.tv/images/chIcons/1126.png",[COLOR green]ערוץ נשיונל ג'יאוגרפיק[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5e:40:62&stream=37705&extension=ts&play_token=VwjHTDps2v
 #EXTINF:0 group-title="מקור-10" tvg-name="IL: Nat Geo Wild" tvg-logo="http://troya.tv/images/chIcons/1138.png",[COLOR green]נשיונל ג'יאוגרפיק WILD[/COLOR]
@@ -648,7 +643,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1035250&e
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: Channel 24" tvg-logo="http://troya.tv/images/chIcons/1142.png",[COLOR burlywood]ערוץ 24[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1163256&extension=ts&play_token=rck28nLBj6
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",[COLOR burlywood]i24 חדשות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1163274&extension=ts&play_token=VBWBJNCURE
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://troya.tv/images/chIcons/1171.png",[COLOR burlywood]חינוכית 23[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1163255&extension=ts&play_token=iCy8MnRDf1
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: Makan 33 HD" tvg-logo="http://troya.tv/images/chIcons/1181.png",[COLOR burlywood]מכאן 33[/COLOR]
@@ -697,8 +692,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1828924&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1828892&extension=ts&play_token=Z4KPSPXDqK
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: Cellcom Doco HD" tvg-logo="http://troya.tv/images/chIcons/2640.png",[COLOR green]סלקום דוקו[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1828876&extension=ts&play_token=SJjlcHmYNm
-#EXTINF:0 group-title="מקור-9" tvg-name="IL: Partner Sdarot HD" tvg-logo="http://troya.tv/images/chIcons/2610.png",[COLOR green]פרטנר סדרות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1828852&extension=ts&play_token=7eOb3UGSAk
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: Free Movies Action HD" tvg-logo="http://troya.tv/images/chIcons/2537.png",[COLOR gold]פריטיוי-סרטים אקשן[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1828798&extension=ts&play_token=T1XylzdFJT
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: Free Movies Romantic HD" tvg-logo="http://troya.tv/images/chIcons/2536.png",[COLOR gold]פריטיוי-סרטים רומנטי[/COLOR]
@@ -826,7 +819,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1828927&e
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: Health Channel HD" tvg-logo="http://troya.tv/images/chIcons/1176.png",[COLOR green]ערוץ הבריאות[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=59326&extension=ts&play_token=6UVQkErCzX
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: HOT Real HD" tvg-logo="http://troya.tv/images/chIcons/1173.png",[COLOR green]HOT ריאלטי[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1828922&extension=ts&play_token=4P3zb3q4VU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=1828718&extension=ts&play_token=D37DKkYnq8
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: Nat Geo HD" tvg-logo="http://troya.tv/images/chIcons/1126.png",[COLOR green]ערוץ נשיונל ג'יאוגרפיק[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BE:70:BF&stream=37705&extension=ts&play_token=VwjHTDps2v
 #EXTINF:0 group-title="מקור-9" tvg-name="IL: Nat Geo Wild" tvg-logo="http://troya.tv/images/chIcons/1138.png",[COLOR green]נשיונל ג'יאוגרפיק WILD[/COLOR]
@@ -889,7 +882,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1035250&e
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: Channel 24" tvg-logo="http://troya.tv/images/chIcons/1142.png",[COLOR burlywood]ערוץ 24[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1163256&extension=ts&play_token=rck28nLBj6
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",[COLOR burlywood]i24 חדשות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1163274&extension=ts&play_token=VBWBJNCURE
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://troya.tv/images/chIcons/1171.png",[COLOR burlywood]חינוכית 23[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1163255&extension=ts&play_token=iCy8MnRDf1
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: Makan 33 HD" tvg-logo="http://troya.tv/images/chIcons/1181.png",[COLOR burlywood]מכאן 33[/COLOR]
@@ -938,8 +931,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1828924&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1828892&extension=ts&play_token=Z4KPSPXDqK
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: Cellcom Doco HD" tvg-logo="http://troya.tv/images/chIcons/2640.png",[COLOR green]סלקום דוקו[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1828876&extension=ts&play_token=SJjlcHmYNm
-#EXTINF:0 group-title="מקור-8" tvg-name="IL: Partner Sdarot HD" tvg-logo="http://troya.tv/images/chIcons/2610.png",[COLOR green]פרטנר סדרות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1828852&extension=ts&play_token=7eOb3UGSAk
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: Free Movies Action HD" tvg-logo="http://troya.tv/images/chIcons/2537.png",[COLOR gold]פריטיוי-סרטים אקשן[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1828798&extension=ts&play_token=T1XylzdFJT
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: Free Movies Romantic HD" tvg-logo="http://troya.tv/images/chIcons/2536.png",[COLOR gold]פריטיוי-סרטים רומנטי[/COLOR]
@@ -1067,7 +1058,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1828927&e
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: Health Channel HD" tvg-logo="http://troya.tv/images/chIcons/1176.png",[COLOR green]ערוץ הבריאות[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=59326&extension=ts&play_token=6UVQkErCzX
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: HOT Real HD" tvg-logo="http://troya.tv/images/chIcons/1173.png",[COLOR green]HOT ריאלטי[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1828922&extension=ts&play_token=4P3zb3q4VU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=1828718&extension=ts&play_token=D37DKkYnq8
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: Nat Geo HD" tvg-logo="http://troya.tv/images/chIcons/1126.png",[COLOR green]ערוץ נשיונל ג'יאוגרפיק[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:17:12:38&stream=37705&extension=ts&play_token=VwjHTDps2v
 #EXTINF:0 group-title="מקור-8" tvg-name="IL: Nat Geo Wild" tvg-logo="http://troya.tv/images/chIcons/1138.png",[COLOR green]נשיונל ג'יאוגרפיק WILD[/COLOR]
@@ -1130,7 +1121,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1035250&e
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: Channel 24" tvg-logo="http://troya.tv/images/chIcons/1142.png",[COLOR burlywood]ערוץ 24[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1163256&extension=ts&play_token=rck28nLBj6
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",[COLOR burlywood]i24 חדשות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1163274&extension=ts&play_token=VBWBJNCURE
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://troya.tv/images/chIcons/1171.png",[COLOR burlywood]חינוכית 23[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1163255&extension=ts&play_token=iCy8MnRDf1
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: Makan 33 HD" tvg-logo="http://troya.tv/images/chIcons/1181.png",[COLOR burlywood]מכאן 33[/COLOR]
@@ -1179,8 +1170,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1828924&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1828892&extension=ts&play_token=Z4KPSPXDqK
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: Cellcom Doco HD" tvg-logo="http://troya.tv/images/chIcons/2640.png",[COLOR green]סלקום דוקו[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1828876&extension=ts&play_token=SJjlcHmYNm
-#EXTINF:0 group-title="מקור-7" tvg-name="IL: Partner Sdarot HD" tvg-logo="http://troya.tv/images/chIcons/2610.png",[COLOR green]פרטנר סדרות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1828852&extension=ts&play_token=7eOb3UGSAk
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: Free Movies Action HD" tvg-logo="http://troya.tv/images/chIcons/2537.png",[COLOR gold]פריטיוי-סרטים אקשן[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1828798&extension=ts&play_token=T1XylzdFJT
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: Free Movies Romantic HD" tvg-logo="http://troya.tv/images/chIcons/2536.png",[COLOR gold]פריטיוי-סרטים רומנטי[/COLOR]
@@ -1308,7 +1297,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1828927&e
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: Health Channel HD" tvg-logo="http://troya.tv/images/chIcons/1176.png",[COLOR green]ערוץ הבריאות[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=59326&extension=ts&play_token=6UVQkErCzX
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: HOT Real HD" tvg-logo="http://troya.tv/images/chIcons/1173.png",[COLOR green]HOT ריאלטי[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1828922&extension=ts&play_token=4P3zb3q4VU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=1828718&extension=ts&play_token=D37DKkYnq8
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: Nat Geo HD" tvg-logo="http://troya.tv/images/chIcons/1126.png",[COLOR green]ערוץ נשיונל ג'יאוגרפיק[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5A:E0:A9&stream=37705&extension=ts&play_token=VwjHTDps2v
 #EXTINF:0 group-title="מקור-7" tvg-name="IL: Nat Geo Wild" tvg-logo="http://troya.tv/images/chIcons/1138.png",[COLOR green]נשיונל ג'יאוגרפיק WILD[/COLOR]
@@ -1371,7 +1360,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1035250&e
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: Channel 24" tvg-logo="http://troya.tv/images/chIcons/1142.png",[COLOR burlywood]ערוץ 24[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1163256&extension=ts&play_token=rck28nLBj6
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: i24 News" tvg-logo="http://troya.tv/images/chIcons/2824.png",[COLOR burlywood]i24 חדשות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1163274&extension=ts&play_token=VBWBJNCURE
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://troya.tv/images/chIcons/1171.png",[COLOR burlywood]חינוכית 23[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1163255&extension=ts&play_token=iCy8MnRDf1
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: Makan 33 HD" tvg-logo="http://troya.tv/images/chIcons/1181.png",[COLOR burlywood]מכאן 33[/COLOR]
@@ -1420,8 +1409,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1828924&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1828892&extension=ts&play_token=Z4KPSPXDqK
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: Cellcom Doco HD" tvg-logo="http://troya.tv/images/chIcons/2640.png",[COLOR green]סלקום דוקו[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1828876&extension=ts&play_token=SJjlcHmYNm
-#EXTINF:0 group-title="מקור-6" tvg-name="IL: Partner Sdarot HD" tvg-logo="http://troya.tv/images/chIcons/2610.png",[COLOR green]פרטנר סדרות[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1828852&extension=ts&play_token=7eOb3UGSAk
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: Free Movies Action HD" tvg-logo="http://troya.tv/images/chIcons/2537.png",[COLOR gold]פריטיוי-סרטים אקשן[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1828798&extension=ts&play_token=T1XylzdFJT
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: Free Movies Romantic HD" tvg-logo="http://troya.tv/images/chIcons/2536.png",[COLOR gold]פריטיוי-סרטים רומנטי[/COLOR]
@@ -1549,7 +1536,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1828927&e
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: Health Channel HD" tvg-logo="http://troya.tv/images/chIcons/1176.png",[COLOR green]ערוץ הבריאות[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=59326&extension=ts&play_token=6UVQkErCzX
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: HOT Real HD" tvg-logo="http://troya.tv/images/chIcons/1173.png",[COLOR green]HOT ריאלטי[/COLOR]
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1828922&extension=ts&play_token=4P3zb3q4VU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=1828718&extension=ts&play_token=D37DKkYnq8
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: Nat Geo HD" tvg-logo="http://troya.tv/images/chIcons/1126.png",[COLOR green]ערוץ נשיונל ג'יאוגרפיק[/COLOR]
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B6:C5:C3&stream=37705&extension=ts&play_token=VwjHTDps2v
 #EXTINF:0 group-title="מקור-6" tvg-name="IL: Nat Geo Wild" tvg-logo="http://troya.tv/images/chIcons/1138.png",[COLOR green]נשיונל ג'יאוגרפיק WILD[/COLOR]
